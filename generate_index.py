@@ -38,7 +38,10 @@ def generate(dirpath):
     return TEMPLATE.format(path=dirpath, rows="\n".join(rows))
 
 for root, dirs, files in os.walk("."):
-    if ".git" in root:
-        continue
+    # Skip .git directories
+    if ".git" in dirs:
+        dirs.remove(".git")
+    # Generate index.html for this folder
     with open(os.path.join(root, "index.html"), "w") as f:
         f.write(generate(root))
+
