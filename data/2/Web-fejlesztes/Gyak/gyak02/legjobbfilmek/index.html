@@ -1,164 +1,23 @@
 <!DOCTYPE html>
-<html lang="hu">
-
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/alap.css">
-    <title>Legjobb filmek</title>
+<meta charset="utf-8">
+<title>Index of /.\data\2\Web-fejlesztes\Gyak\gyak02\legjobbfilmek</title>
+<style>
+body { font-family: monospace; }
+table { border-collapse: collapse; }
+td { padding: 4px 12px; }
+</style>
 </head>
-
 <body>
-
-    <h1>A legjobb &lt;internetes/webes> témájú filmek - Kezdőlap</h1>
-    <p>Főmenü: <a href="index.html">Kezdőlap</a> , <a href="urlap.html">Új film beküldése</a></p>
-    <div id="bevezeto">
-        <h2>Bevezető</h2>
-        <p>
-            Krasznahorkai László a következőt írta: Az internet (...) az eddigi legbiztosabb út az örökkévalóságba.
-            Hogy ez igaz-e, mindenki döntse el maga, miután megnézte a listámban szereplő filmeket.
-        </p>
-        <p>
-            Figyelem! A lista nem átfogó, erősen szubjektív.
-        </p>
-        <h2>Ugrás a filmekhez</h2>
-        <ol>
-            <li> <a href="#social">Social Network - A közösségi háló</a></li>
-            <li> <a href="#no">A nő</a></li>
-            <li> <a href="#temeg">Te meg én és minden ismerősünk</a></li>
-            <li> <a href="#deep">Deep Web</a></li>
-        </ol>
-    </div>
-    <h2 id="social">Social Network - A közösségi háló</h2>
-    A film adatai
-    <table>
-        <tr>
-            <th>Bemutató</th>
-            <td>2010. október 1.</td>
-        </tr>
-        <tr>
-            <th>Angol cím </th>
-            <td>The Social Network</td>
-        </tr>
-        <tr>
-            <th>IMDb értékelés</th>
-            <td>7.7/10</td>
-        </tr>
-    </table>
-    <p>Mark Zuckerberg jobban ért a számítógépekhez, mint a csajozáshoz. A Harvard egyetem diákja ideje nagy részét a
-        gépe előtt tölti. 2003-ban új ötlettel áll elő: egy olyan oldalt indít a világhálón, ahol a haverok közösségi
-        életet élhetnek. A kollégiumi szobából indult Facebook valóságos kommunikációs forradalmat hozott, és alapjaiban
-        változtatta meg a világot, az emberi kapcsolatokat - és megváltoztatta az alkotóját is. Hat esztendővel és
-        ötszázmillió ismerőssel később Zuckerberg a világ legfiatalabb milliárdosa. Egykor békés, nyugodt életről
-        álmodott, a siker azonban felkavarta mind a szakmai, mind a magánéletét.</p>
-    <p>
-        A Social Network - A közösségi háló a korszellemet grabancon ragadó, aktuális, de időtálló munka, ami nem csak,
-        hogy sokkal jobb móka, mint két óra facebookozás, de biztos, hogy évek-évtizedek távlatából is élvezhető lesz.
-    </p>
-
-    <figure>
-        <img src="media/TheSocialNetwork.jpg" alt="Jelenet a Social Network - A közösségi háló című filmből">
-        <figcaption>Jelenet a Social Network - A közösségi háló című filmből </figcaption>
-    </figure>
-    <h3>Forráskód a filmben</h3>
-    <p>
-        A filmben nagy figyelmet fordítottak arra is, hogy a megjelenő forráskódok a témához kapcsolódjanak. Íme egy
-        példa:
-    </p>
-    <pre>
-<code>
-#!/usr/bin/perl
-$wget = "wget -q0- http://leverett.harvard.edu/facebook/compactshow.php
---post-data='action=Search'";
-
-print "$wget\n";
-$page = ` $wget`;
-while ($page =~ m/compactshow\.php\?student_id=([0-9]+)/g) {
-$id=$1
-$wget = "wget -q0- http://leverett.harvard.edu/facebook/compactshow.php?student_id=$id";
-print "$wget\n";
-}
-</code>
-    </pre>
-    A filmben szereplő forráskód részlete
-    <h3>Filmzene</h3>
-    <p>
-        A filmzenéből Trent Reznor and Atticus Ross: A Familiar Taste című száma a kedvencem.
-    </p> <audio controls>
-        <source src="media/socialnetwork.mp3" type="audio/mpeg">
-    </audio>
-    <h2 id="no">A nő</h2>
-    A film adatai
-    Bemutató 2014. január 10.
-    Angol cím Her
-    IMDb értékelés 8/10
-    <p>
-        Los Angelesben, a közeli jövőben él Theodore Twombly író, aki abból él, hogy megható, személyes leveleket ír
-        mások számára. A férfi rossz passzban van, próbálja kiheverni, hogy tönkrement egy hosszú kapcsolata. A
-        számítógépein dolgozik és játszik. Egy nap unalmában letölt egy új, intelligens operációs programot. Így
-        találkozik Samantha-val, pontosabban a hangjával, amely valósággal megigézi. Kiderül, hogy Samantha okos és
-        éleslátó, érzékeny és meglepően vicces. A kezdeti barátságuk egyre jobban elmélyül.
-    </p>
-    <p>
-        Spike Jonze A nővel gyakorlatilag megalkotta a tökéletes szerelmesfilmet, amelyből egyszerre derül ki, hogy ez
-        az egész felhajtás mekkora baromság, és hogy nem érdemes élni nélküle.
-    </p>
-    <h3>A film előzetese</h3>
-    <video controls poster="media/her.jpg">
-        <source src="media/her_elozetes.mp4" type="video/mp4">
-    </video>
-    <h2 id="temeg">Te meg én és minden ismerősünk</h2>
-    A film adatai
-    Bemutató 2005. augusztus 5.
-    Angol cím Me And You And Everyone We Know
-    IMDb értékelés 7,4/10
-    <p>Miranda July, multimédia-performer és zenész éleslátó és rendkívül szórakoztató filmet készített olyan magányos
-        emberekről, akik megpróbálnak kapcsolatot teremteni környezetükkel. Azokat a külső és belső gátakat mutatja meg,
-        amik magányos, modern világunkban gyakran meghiúsítják az egymással való kapcsolatteremtést. July szerint a
-        történet elérhetetlen vágyakat tápláló gyerekekről és felnőttekről szól, akik olyan korban élnek, mikor a
-        felnőtté válás digitális folyamat és a valóság esztétikai döntésünk függvénye.</p>
-    <p>A Miranda July korábbi műveiben felvetett témák folytatásának tekinthető Te meg én és minden ismerősünk leleplezi
-        az emberek titkolt érzéseit, vágyait és motivációit. Az eredmény egy gyönyörű, egyedi film, amely észrevétlenül
-        ejti rabul az ember szívét.</p>
-
-    <figure>
-        <img src="media/meandyou.jpg" alt="Jelenet a 'Te meg én és minden ismerősünk' című filmből">
-        <figcaption>Jelenet a "Te meg én és minden ismerősünk" című filmből</figcaption>
-    </figure>
-    <h2 id="deep">Deep web</h2>
-    A fim adatai
-    Bemutató 2015. november 21.
-    Angol cím Deep web
-    IMDb értékelés 7,1/10
-    <p>Az internet nem csak hírportálokból, közösségi oldalakból és cuki állatos videókból áll. A keresőmotoroktól
-        elzárva ott húzódik a felszín alatt az úgynevezett deep web, vagy más néven dark web, a világháló sötét oldala.
-        Anonimitásba burkolózott felhasználók szörföznek az internet sötét hullámain, ahol burjánzik a drog- és
-        fegyverkereskedelem, és mindenre van kereslet, ami illegális.</p>
-    <p>Alex Winter dokumentumfilmje mélyen elmerül a deep web titkaiban. Kiderül, hogy az igazságszolgáltatásnak nem
-        csupán az utcán kell üldöznie a bűnözőket, hanem a virtális világban nyüzsgő arctalan törvényszegőkkel is
-        kénytelen megküzdeni. Mi, átlagfelhasználók nem is sejtjük, micsoda üzelmek folynak az internet rejtett
-        bugyraiban. Egészen addig, amíg meg nem nézzük a Deep Web dokumentumfilmet.</p>
-    <figure>
-        <img src="media/Deep_Web_Poster.jpg" alt="A Deep Web című film plakátja">
-        <figcaption>A Deep Web című film plakátja</figcaption>
-    </figure>
-    <h3>Mi is az a deep web?</h3>
-    <p>Az lábbi angol nyelvű prezentáció bemutatja, hogy mi is az a deep web.</p>
-    {slideshare prezentáció beágyazása - https://www.slideshare.net/asertseminar/the-deep-web-32353889}
-    <h2>Források</h2>
-    <ul>
-        <li><a href="https://www.techtimes.com/">Techtimes.com</a></li>
-        <li>Librarius</li>
-    </ul>
-
-    <p>
-        Készítette: Gipsz Jakab<br>
-        (gipszjakab@mailinator.com)<br>
-        1117 Budapest, Nevenincs u. 17
-    </p>
-
-
-
+<h1>Index of /.\data\2\Web-fejlesztes\Gyak\gyak02\legjobbfilmek</h1>
+<table>
+<tr><th>Name</th><th>Last modified</th><th>Size</th></tr>
+<tr><td><a href="../">../</a></td><td></td><td>-</td></tr>
+<tr><td><a href='css/'>css/</a></td><td>2025-12-23 22:28</td><td>-</td></tr>
+<tr><td><a href='design/'>design/</a></td><td>2025-12-23 22:28</td><td>-</td></tr>
+<tr><td><a href='media/'>media/</a></td><td>2025-12-23 22:28</td><td>-</td></tr>
+<tr><td><a href='urlap.html'>urlap.html</a></td><td>2025-02-26 10:38</td><td>215</td></tr>
+</table>
 </body>
-
 </html>
