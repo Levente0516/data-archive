@@ -1,28 +1,44 @@
 import os
 from datetime import datetime
 
-def gen(path):
-    items = []
-    for name in sorted(os.listdir(path)):
-        if name.startswith('.'): continue
-        p = os.path.join(path, name)
-        stat = os.stat(p)
-        items.append((name, stat))
+TEMPLATE = """<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Index of /{path}</title>
+<style>
+body {{ font-family: monospace; }}
+table {{ border-collapse: collapse; }}
+td {{ padding: 4px 12px; }}
+</style>
+</head>
+<body>
+<h1>Index of /{path}</h1>
+<table>
+<tr><th>Name</th><th>Last modified</th><th>Size</th></tr>
+<tr><td><a href="../">../</a></td><td></td><td>-</td></tr>
+{rows}
+</table>
+</body>
+</html>
+"""
 
-    rows = ""
-    for name, stat in items:
-        size = "-" if os.path.isdir(os.path.join(path, name)) else f"{stat.st_size//1024}K"
+def generate(dirpath):
+    rows = []
+    for name in sorted(os.listdir(dirpath)):
+        if name.startswith('.') or name == 'index.html':
+            continue
+        full = os.path.join(dirpath, name)
+        stat = os.stat(full)
         mod = datetime.fromtimestamp(stat.st_mtime).strftime("%Y-%m-%d %H:%M")
-        slash = "/" if size == "-" else ""
-        rows += f"<tr><td><a href='{name}{slash}'>{name}{slash}</a></td><td>{mod}</td><td>{size}</td></tr>"
+        if os.path.isdir(full):
+            rows.append(f"<tr><td><a href='{name}/'>{name}/</a></td><td>{mod}</td><td>-</td></tr>")
+        else:
+            rows.append(f"<tr><td><a href='{name}'>{name}</a></td><td>{mod}</td><td>{stat.st_size}</td></tr>")
+    return TEMPLATE.format(path=dirpath, rows="\n".join(rows))
 
-    return f"""
-    <html><body>
-    <h1>Index of /{path}</h1>
-    <table>{rows}</table>
-    </body></html>
-    """
-
-for root, dirs, files in os.walk("data"):
+for root, dirs, files in os.walk("."):
+    if ".git" in root:
+        continue
     with open(os.path.join(root, "index.html"), "w") as f:
-        f.write(gen(root))
+        f.write(generate(root))
