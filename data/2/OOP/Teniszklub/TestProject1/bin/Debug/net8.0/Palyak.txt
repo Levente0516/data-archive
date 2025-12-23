@@ -1,0 +1,10 @@
+﻿1		fű			igen	
+2		muanyag		nem
+3		fű			igen
+4		salak		igen
+5		muanyag		igen
+6		fű			nem
+7		muanyag		nem
+8		salak		nem
+9		fű			nem
+10		salak		igen

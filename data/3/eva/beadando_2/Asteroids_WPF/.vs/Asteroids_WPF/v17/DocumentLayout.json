@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids\\model\\iasteroids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|solutionrelative:asteroids\\model\\iasteroids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids\\model\\asteroidgamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|solutionrelative:asteroids\\model\\asteroidgamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids\\model\\cellchangedeventargs .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|solutionrelative:asteroids\\model\\cellchangedeventargs .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids\\model\\gameoverevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|solutionrelative:asteroids\\model\\gameoverevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids\\model\\timermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|solutionrelative:asteroids\\model\\timermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids\\model\\timerinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|solutionrelative:asteroids\\model\\timerinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids_wpf\\viewmodel\\asteroidviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|solutionrelative:asteroids_wpf\\viewmodel\\asteroidviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids\\persistence\\asteroiddataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|solutionrelative:asteroids\\persistence\\asteroiddataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids\\persistence\\asteroidtabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|solutionrelative:asteroids\\persistence\\asteroidtabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids_wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|solutionrelative:asteroids_wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids_wpf\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|solutionrelative:asteroids_wpf\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids_wpf\\viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|solutionrelative:asteroids_wpf\\viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids_wpf\\viewmodel\\asteroidsfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|solutionrelative:asteroids_wpf\\viewmodel\\asteroidsfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids_wpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|solutionrelative:asteroids_wpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids\\model\\itimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|solutionrelative:asteroids\\model\\itimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids\\model\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|solutionrelative:asteroids\\model\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids\\model\\asteroidsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|solutionrelative:asteroids\\model\\asteroidsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids_wpf\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4517C4-D1C7-4031-8D71-E3A0115E6F71}|Asteroids_WPF\\Asteroids_WPF.csproj|solutionrelative:asteroids_wpf\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185D9800-46EE-4035-A7D0-D61BBF5A13D8}|Asteroids_Test\\Asteroids_Test.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids_test\\asteroidsgamemodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185D9800-46EE-4035-A7D0-D61BBF5A13D8}|Asteroids_Test\\Asteroids_Test.csproj|solutionrelative:asteroids_test\\asteroidsgamemodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids\\model\\iship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31FA285-BEB5-4DC4-AF7E-55ECD05D8282}|Asteroids\\Asteroids.csproj|solutionrelative:asteroids\\model\\iship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185D9800-46EE-4035-A7D0-D61BBF5A13D8}|Asteroids_Test\\Asteroids_Test.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids_test\\asteroidtabeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185D9800-46EE-4035-A7D0-D61BBF5A13D8}|Asteroids_Test\\Asteroids_Test.csproj|solutionrelative:asteroids_test\\asteroidtabeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185D9800-46EE-4035-A7D0-D61BBF5A13D8}|Asteroids_Test\\Asteroids_Test.csproj|c:\\egyetem\\3\\eva\\beadando_2\\asteroids_wpf\\asteroids_test\\asteroids_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{185D9800-46EE-4035-A7D0-D61BBF5A13D8}|Asteroids_Test\\Asteroids_Test.csproj|solutionrelative:asteroids_test\\asteroids_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "Asteroids_WPF\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "Asteroids_WPF\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:06:48.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\ViewModel\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "Asteroids_WPF\\ViewModel\\DelegateCommand.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\ViewModel\\DelegateCommand.cs",
+              "RelativeToolTip": "Asteroids_WPF\\ViewModel\\DelegateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:06:47.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AsteroidsField.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\ViewModel\\AsteroidsField.cs",
+              "RelativeDocumentMoniker": "Asteroids_WPF\\ViewModel\\AsteroidsField.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\ViewModel\\AsteroidsField.cs",
+              "RelativeToolTip": "Asteroids_WPF\\ViewModel\\AsteroidsField.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:01:23.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Asteroids_WPF\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Asteroids_WPF\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:25:43.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Asteroids_WPF\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Asteroids_WPF\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-26T08:47:41.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AsteroidTabel.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Persistence\\AsteroidTabel.cs",
+              "RelativeDocumentMoniker": "Asteroids\\Persistence\\AsteroidTabel.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Persistence\\AsteroidTabel.cs",
+              "RelativeToolTip": "Asteroids\\Persistence\\AsteroidTabel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:44:25.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AsteroidDataException.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Persistence\\AsteroidDataException.cs",
+              "RelativeDocumentMoniker": "Asteroids\\Persistence\\AsteroidDataException.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Persistence\\AsteroidDataException.cs",
+              "RelativeToolTip": "Asteroids\\Persistence\\AsteroidDataException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:45:25.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimerModel.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\TimerModel.cs",
+              "RelativeDocumentMoniker": "Asteroids\\Model\\TimerModel.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\TimerModel.cs",
+              "RelativeToolTip": "Asteroids\\Model\\TimerModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:45:16.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimerInheritance.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\TimerInheritance.cs",
+              "RelativeDocumentMoniker": "Asteroids\\Model\\TimerInheritance.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\TimerInheritance.cs",
+              "RelativeToolTip": "Asteroids\\Model\\TimerInheritance.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:45:14.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITimer.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\ITimer.cs",
+              "RelativeDocumentMoniker": "Asteroids\\Model\\ITimer.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\ITimer.cs",
+              "RelativeToolTip": "Asteroids\\Model\\ITimer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:45:10.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IShip.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\IShip.cs",
+              "RelativeDocumentMoniker": "Asteroids\\Model\\IShip.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\IShip.cs",
+              "RelativeToolTip": "Asteroids\\Model\\IShip.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:45:08.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameOverEvent.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\GameOverEvent.cs",
+              "RelativeDocumentMoniker": "Asteroids\\Model\\GameOverEvent.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\GameOverEvent.cs",
+              "RelativeToolTip": "Asteroids\\Model\\GameOverEvent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:45:04.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CellChangedEventArgs .cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\CellChangedEventArgs .cs",
+              "RelativeDocumentMoniker": "Asteroids\\Model\\CellChangedEventArgs .cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\CellChangedEventArgs .cs",
+              "RelativeToolTip": "Asteroids\\Model\\CellChangedEventArgs .cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:44:52.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsteroidGameModel.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\AsteroidGameModel.cs",
+              "RelativeDocumentMoniker": "Asteroids\\Model\\AsteroidGameModel.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\AsteroidGameModel.cs",
+              "RelativeToolTip": "Asteroids\\Model\\AsteroidGameModel.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAtwCoBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:42:35.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\Ship.cs",
+              "RelativeDocumentMoniker": "Asteroids\\Model\\Ship.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\Ship.cs",
+              "RelativeToolTip": "Asteroids\\Model\\Ship.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:02:40.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AsteroidViewModel.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\ViewModel\\AsteroidViewModel.cs",
+              "RelativeDocumentMoniker": "Asteroids_WPF\\ViewModel\\AsteroidViewModel.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\ViewModel\\AsteroidViewModel.cs",
+              "RelativeToolTip": "Asteroids_WPF\\ViewModel\\AsteroidViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:02:05.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AsteroidsModel.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\AsteroidsModel.cs",
+              "RelativeDocumentMoniker": "Asteroids\\Model\\AsteroidsModel.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\AsteroidsModel.cs",
+              "RelativeToolTip": "Asteroids\\Model\\AsteroidsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:01:36.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AsteroidsGameModelTest.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_Test\\AsteroidsGameModelTest.cs",
+              "RelativeDocumentMoniker": "Asteroids_Test\\AsteroidsGameModelTest.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_Test\\AsteroidsGameModelTest.cs",
+              "RelativeToolTip": "Asteroids_Test\\AsteroidsGameModelTest.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:55:11.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AsteroidTabelTests.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_Test\\AsteroidTabelTests.cs",
+              "RelativeDocumentMoniker": "Asteroids_Test\\AsteroidTabelTests.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_Test\\AsteroidTabelTests.cs",
+              "RelativeToolTip": "Asteroids_Test\\AsteroidTabelTests.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:30:38.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAsteroids.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\IAsteroids.cs",
+              "RelativeDocumentMoniker": "Asteroids\\Model\\IAsteroids.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids\\Model\\IAsteroids.cs",
+              "RelativeToolTip": "Asteroids\\Model\\IAsteroids.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:28:58.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Asteroids_Test.csproj",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_Test\\Asteroids_Test.csproj",
+              "RelativeDocumentMoniker": "Asteroids_Test\\Asteroids_Test.csproj",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_Test\\Asteroids_Test.csproj",
+              "RelativeToolTip": "Asteroids_Test\\Asteroids_Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T12:45:01.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Asteroids_WPF\\App.xaml.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Asteroids_WPF\\Asteroids_WPF\\App.xaml.cs",
+              "RelativeToolTip": "Asteroids_WPF\\App.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:18:00.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

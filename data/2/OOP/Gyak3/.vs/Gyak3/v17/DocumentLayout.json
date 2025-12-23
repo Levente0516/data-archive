@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Egyetem\\2\\OOP\\Gyak3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B6D1F-19EC-43AA-9292-009B29A05841}|Gyak3\\Gyak3.csproj|c:\\egyetem\\2\\oop\\gyak3\\gyak3\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B6D1F-19EC-43AA-9292-009B29A05841}|Gyak3\\Gyak3.csproj|solutionrelative:gyak3\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B6D1F-19EC-43AA-9292-009B29A05841}|Gyak3\\Gyak3.csproj|c:\\egyetem\\2\\oop\\gyak3\\gyak3\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA5B6D1F-19EC-43AA-9292-009B29A05841}|Gyak3\\Gyak3.csproj|solutionrelative:gyak3\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5B6D1F-19EC-43AA-9292-009B29A05841}|Gyak3\\Gyak3.csproj|c:\\egyetem\\2\\oop\\gyak3\\gyak3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5B6D1F-19EC-43AA-9292-009B29A05841}|Gyak3\\Gyak3.csproj|solutionrelative:gyak3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A303F2-9055-4304-90FF-C4D9770FA338}|TestBag\\TestBag.csproj|c:\\egyetem\\2\\oop\\gyak3\\testbag\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A303F2-9055-4304-90FF-C4D9770FA338}|TestBag\\TestBag.csproj|solutionrelative:testbag\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Gyak3\\TestBag\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestBag\\UnitTest1.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Gyak3\\TestBag\\UnitTest1.cs",
+              "RelativeToolTip": "TestBag\\UnitTest1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:12:03.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Gyak3\\Gyak3\\input.txt",
+              "RelativeDocumentMoniker": "Gyak3\\input.txt",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Gyak3\\Gyak3\\input.txt",
+              "RelativeToolTip": "Gyak3\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-28T07:50:04.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bag.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Gyak3\\Gyak3\\Bag.cs",
+              "RelativeDocumentMoniker": "Gyak3\\Bag.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Gyak3\\Gyak3\\Bag.cs",
+              "RelativeToolTip": "Gyak3\\Bag.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAiwBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:12:25.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Gyak3\\Gyak3\\Program.cs",
+              "RelativeDocumentMoniker": "Gyak3\\Program.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Gyak3\\Gyak3\\Program.cs",
+              "RelativeToolTip": "Gyak3\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:11:38.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Egyetem\\2\\OOP\\Gyak2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{786488C7-0B62-4F0B-B73E-4406D73A68AB}|Gyak2\\Gyak2.csproj|c:\\egyetem\\2\\oop\\gyak2\\gyak2\\racionalis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786488C7-0B62-4F0B-B73E-4406D73A68AB}|Gyak2\\Gyak2.csproj|solutionrelative:gyak2\\racionalis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786488C7-0B62-4F0B-B73E-4406D73A68AB}|Gyak2\\Gyak2.csproj|c:\\egyetem\\2\\oop\\gyak2\\gyak2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786488C7-0B62-4F0B-B73E-4406D73A68AB}|Gyak2\\Gyak2.csproj|solutionrelative:gyak2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Racionalis.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Gyak2\\Gyak2\\Racionalis.cs",
+              "RelativeDocumentMoniker": "Gyak2\\Racionalis.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Gyak2\\Gyak2\\Racionalis.cs",
+              "RelativeToolTip": "Gyak2\\Racionalis.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:06:34.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Gyak2\\Gyak2\\Program.cs",
+              "RelativeDocumentMoniker": "Gyak2\\Program.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Gyak2\\Gyak2\\Program.cs",
+              "RelativeToolTip": "Gyak2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:02:12.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

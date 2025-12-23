@@ -1,0 +1,14 @@
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\bin\Debug\net8.0\Gyak2_spiral.exe
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\bin\Debug\net8.0\Gyak2_spiral.deps.json
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\bin\Debug\net8.0\Gyak2_spiral.runtimeconfig.json
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\bin\Debug\net8.0\Gyak2_spiral.dll
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\bin\Debug\net8.0\Gyak2_spiral.pdb
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\obj\Debug\net8.0\Gyak2_spiral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\obj\Debug\net8.0\Gyak2_spiral.AssemblyInfoInputs.cache
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\obj\Debug\net8.0\Gyak2_spiral.AssemblyInfo.cs
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\obj\Debug\net8.0\Gyak2_spiral.csproj.CoreCompileInputs.cache
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\obj\Debug\net8.0\Gyak2_spiral.dll
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\obj\Debug\net8.0\refint\Gyak2_spiral.dll
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\obj\Debug\net8.0\Gyak2_spiral.pdb
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\obj\Debug\net8.0\Gyak2_spiral.genruntimeconfig.cache
+C:\Egyetem\2\OOP\Gyak2_spiral\Gyak2_spiral\obj\Debug\net8.0\ref\Gyak2_spiral.dll

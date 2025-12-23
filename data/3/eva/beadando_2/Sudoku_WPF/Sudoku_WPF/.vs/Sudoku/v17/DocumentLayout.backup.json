@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku\\model\\sudokugamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\model\\sudokugamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku\\model\\itimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\model\\itimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku.wpf\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|solutionrelative:sudoku.wpf\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku.wpf\\viewmodel\\sudokuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|solutionrelative:sudoku.wpf\\viewmodel\\sudokuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|solutionrelative:sudoku.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku.wpf\\viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|solutionrelative:sudoku.wpf\\viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku.wpf\\viewmodel\\sudokufield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|solutionrelative:sudoku.wpf\\viewmodel\\sudokufield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku.wpf\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|solutionrelative:sudoku.wpf\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku.wpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|solutionrelative:sudoku.wpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C336CEA0-9969-4942-A301-51EA81E11217}|Sudoku.WPF\\Sudoku.WPF.csproj|solutionrelative:sudoku.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku\\persistence\\sudokufiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\persistence\\sudokufiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku\\persistence\\sudokudataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\persistence\\sudokudataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku\\model\\sudokutimerinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\model\\sudokutimerinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku\\persistence\\sudokutable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\persistence\\sudokutable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku\\sudoku.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\sudoku.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|c:\\egyetem\\3\\eva\\beadando_2\\sudoku_wpf\\sudoku_wpf\\sudoku\\sudoku.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9201074-0A1B-4925-80FD-076BA5CBCF70}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\sudoku.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\ViewModel\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "Sudoku.WPF\\ViewModel\\DelegateCommand.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\ViewModel\\DelegateCommand.cs",
+              "RelativeToolTip": "Sudoku.WPF\\ViewModel\\DelegateCommand.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T18:57:43.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SudokuDataException.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Persistence\\SudokuDataException.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Persistence\\SudokuDataException.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Persistence\\SudokuDataException.cs",
+              "RelativeToolTip": "Sudoku\\Persistence\\SudokuDataException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:51:47.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SudokuTimerInheritance.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Model\\SudokuTimerInheritance.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Model\\SudokuTimerInheritance.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Model\\SudokuTimerInheritance.cs",
+              "RelativeToolTip": "Sudoku\\Model\\SudokuTimerInheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:45:19.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITimer.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Model\\ITimer.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Model\\ITimer.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Model\\ITimer.cs",
+              "RelativeToolTip": "Sudoku\\Model\\ITimer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:31:49.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SudokuGameModel.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Model\\SudokuGameModel.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Model\\SudokuGameModel.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Model\\SudokuGameModel.cs",
+              "RelativeToolTip": "Sudoku\\Model\\SudokuGameModel.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAiwHYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:08:23.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SudokuTable.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Persistence\\SudokuTable.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Persistence\\SudokuTable.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Persistence\\SudokuTable.cs",
+              "RelativeToolTip": "Sudoku\\Persistence\\SudokuTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:56:33.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SudokuFileDataAccess.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Persistence\\SudokuFileDataAccess.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Persistence\\SudokuFileDataAccess.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Persistence\\SudokuFileDataAccess.cs",
+              "RelativeToolTip": "Sudoku\\Persistence\\SudokuFileDataAccess.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:57:25.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sudoku",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Sudoku.csproj",
+              "RelativeDocumentMoniker": "Sudoku\\Sudoku.csproj",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Sudoku.csproj",
+              "RelativeToolTip": "Sudoku\\Sudoku.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T12:50:38.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sudoku.csproj",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Sudoku.csproj",
+              "RelativeDocumentMoniker": "Sudoku\\Sudoku.csproj",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku\\Sudoku.csproj",
+              "RelativeToolTip": "Sudoku\\Sudoku.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T12:48:00.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SudokuField.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\ViewModel\\SudokuField.cs",
+              "RelativeDocumentMoniker": "Sudoku.WPF\\ViewModel\\SudokuField.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\ViewModel\\SudokuField.cs",
+              "RelativeToolTip": "Sudoku.WPF\\ViewModel\\SudokuField.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA3wCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:42:59.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SudokuViewModel.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\ViewModel\\SudokuViewModel.cs",
+              "RelativeDocumentMoniker": "Sudoku.WPF\\ViewModel\\SudokuViewModel.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\ViewModel\\SudokuViewModel.cs",
+              "RelativeToolTip": "Sudoku.WPF\\ViewModel\\SudokuViewModel.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAwMMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:43:26.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Sudoku.WPF\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\AssemblyInfo.cs",
+              "RelativeToolTip": "Sudoku.WPF\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:11:51.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Sudoku.WPF\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Sudoku.WPF\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:09:18.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Sudoku.WPF\\App.xaml.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\App.xaml.cs",
+              "RelativeToolTip": "Sudoku.WPF\\App.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:09:51.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\App.xaml",
+              "RelativeDocumentMoniker": "Sudoku.WPF\\App.xaml",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\App.xaml",
+              "RelativeToolTip": "Sudoku.WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-14T12:00:17.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Sudoku.WPF\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\beadando_2\\Sudoku_WPF\\Sudoku_WPF\\Sudoku.WPF\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Sudoku.WPF\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-14T11:59:54.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

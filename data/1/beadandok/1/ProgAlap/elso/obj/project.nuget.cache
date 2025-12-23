@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wr+mrB1rM7eY55dSed9Y7Hb76ABVHyFh5jn6NMvga9VN3ZRGICxfnBmn7pyAdnDORnU7VppUieqnvqcP3gAVgQ==",
+  "success": true,
+  "projectFilePath": "/run/media/levi/Windows-SSD/Egyetem/1/beadandok/1/ProgAlap/elso/elso.csproj",
+  "expectedPackageFiles": [
+    "/home/levi/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

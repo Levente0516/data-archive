@@ -1,0 +1,15 @@
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\bin\Debug\net8.0\Beadando_Diag.exe
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\bin\Debug\net8.0\Beadando_Diag.deps.json
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\bin\Debug\net8.0\Beadando_Diag.runtimeconfig.json
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\bin\Debug\net8.0\Beadando_Diag.dll
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\bin\Debug\net8.0\Beadando_Diag.pdb
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\obj\Debug\net8.0\Beadando_Diag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\obj\Debug\net8.0\Beadando_Diag.AssemblyInfoInputs.cache
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\obj\Debug\net8.0\Beadando_Diag.AssemblyInfo.cs
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\obj\Debug\net8.0\Beadando_Diag.csproj.CoreCompileInputs.cache
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\obj\Debug\net8.0\Beadando_Diag.sourcelink.json
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\obj\Debug\net8.0\Beadando_Diag.dll
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\obj\Debug\net8.0\refint\Beadando_Diag.dll
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\obj\Debug\net8.0\Beadando_Diag.pdb
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\obj\Debug\net8.0\Beadando_Diag.genruntimeconfig.cache
+C:\Egyetem\2\OOP\Beadando_Diag\Beadando_Diag\obj\Debug\net8.0\ref\Beadando_Diag.dll

@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "bvvwa1fE9kk=",
+  "success": true,
+  "projectFilePath": "C:\\Egyetem\\3\\eva\\elte_eva_gy13_megoldas\\ImageDownloader_Reactive\\ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leven\\.nuget\\packages\\avalonia\\11.3.9\\avalonia.11.3.9.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\avalonia.buildservices\\11.3.2\\avalonia.buildservices.11.3.2.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\avalonia.controls.colorpicker\\11.3.9\\avalonia.controls.colorpicker.11.3.9.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\avalonia.diagnostics\\11.3.9\\avalonia.diagnostics.11.3.9.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\avalonia.fonts.inter\\11.3.9\\avalonia.fonts.inter.11.3.9.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\avalonia.reactiveui\\11.3.8\\avalonia.reactiveui.11.3.8.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\avalonia.remote.protocol\\11.3.9\\avalonia.remote.protocol.11.3.9.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\avalonia.themes.fluent\\11.3.9\\avalonia.themes.fluent.11.3.9.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\avalonia.themes.simple\\11.3.9\\avalonia.themes.simple.11.3.9.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\dialoghost.avalonia\\0.8.1\\dialoghost.avalonia.0.8.1.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\dynamicdata\\8.4.1\\dynamicdata.8.4.1.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\messagebox.avalonia\\3.3.0\\messagebox.avalonia.3.3.0.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\reactiveui\\20.1.1\\reactiveui.20.1.1.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\reactiveui.sourcegenerators\\2.5.1\\reactiveui.sourcegenerators.2.5.1.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\reactiveui.sourcegenerators.analyzers.codefixes\\2.5.1\\reactiveui.sourcegenerators.analyzers.codefixes.2.5.1.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\sixlabors.imagesharp\\3.1.12\\sixlabors.imagesharp.3.1.12.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\splat\\15.1.1\\splat.15.1.1.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\leven\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

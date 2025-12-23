@@ -1,0 +1,10 @@
+﻿1		fu			igen	
+2		muanyag		nem
+3		fu			igen
+4		salak		igen
+5		muanyag		igen
+6		fu			nem
+7		muanyag		nem
+8		salak		nem
+9		fu			nem
+10		salak		igen

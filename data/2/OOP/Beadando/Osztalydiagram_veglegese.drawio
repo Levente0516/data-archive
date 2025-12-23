@@ -1,0 +1,341 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
+  <diagram name="1 oldal" id="X1X1lxlZnIHoD2Hg6Pid">
+    <mxGraphModel dx="1126" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-1" value="Foglalas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-4" value="+ date: DateTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-1">
+          <mxGeometry y="30" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-5" value="+ ido : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-1">
+          <mxGeometry y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-6" value="+Foglalas(Palya, Tag, DateTime, int)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-1">
+          <mxGeometry y="90" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-8" value="Palya" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="80" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-9" value="+ sorszam: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-8">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-11" value="+ fedett: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-8">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-12" value="+ foglalt: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-8">
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-13" value="+Palya(int, Enums.Palya_tipus, bool, bool)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-8">
+          <mxGeometry y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-2" value="+ palya" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-20" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-8" target="mqXfY6w-uDlOi6dGzH6E-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="140" as="sourcePoint" />
+            <mxPoint x="180" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="10" />
+              <mxPoint x="185" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-15" value="Tag" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="510" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-16" value="+ name: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-15">
+          <mxGeometry y="30" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-20" value="+Tag(string, Enums.Jatekos_tipus)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;glass=0;shadow=0;rounded=0;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-15">
+          <mxGeometry y="60" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-23" value="+Palya_foglalas(klub: Teniszklub, palya: Palya, date: DateTime, ido: int)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-15">
+          <mxGeometry y="90" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.108;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="mqXfY6w-uDlOi6dGzH6E-15" source="mqXfY6w-uDlOi6dGzH6E-20" target="mqXfY6w-uDlOi6dGzH6E-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="120" as="sourcePoint" />
+            <mxPoint x="150" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-25" value="+Palya_lemondas(klub: Teniszklub, palya: Palya, date: DateTime, ido: int, currdate: DateTime)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-15">
+          <mxGeometry y="120" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-3" value="+ tag" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="10" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-26" value="Teniszklub" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="440" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-29" value="+Teniszklub()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;glass=0;shadow=0;rounded=0;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-26">
+          <mxGeometry y="30" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-30" value="+AddPalya(sorszam: int, tipus: Enums.Palya_tipus, fedett: bool)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-26">
+          <mxGeometry y="60" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.108;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="mqXfY6w-uDlOi6dGzH6E-26" source="mqXfY6w-uDlOi6dGzH6E-29" target="mqXfY6w-uDlOi6dGzH6E-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="120" as="sourcePoint" />
+            <mxPoint x="150" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-32" value="+RemPalya(sorszam: int)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-26">
+          <mxGeometry y="90" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-45" value="+AddTag(name: string, tipus: Enums.Jatekos_tipus)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-26">
+          <mxGeometry y="120" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-46" value="+RemoveTag(name: string)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-26">
+          <mxGeometry y="150" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-47" value="+foglalas_palya(palya: Palya, tag: Tag, date: DateTime, ido: int)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-26">
+          <mxGeometry y="180" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-48" value="+lemondas(palya: Palya, tag: Tag, date: DateTime, ido: int, currdate: DateTime)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-26">
+          <mxGeometry y="210" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-49" value="+ReadPalya(fname: string)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-26">
+          <mxGeometry y="240" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-50" value="+ReadTag(fname: string)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-26">
+          <mxGeometry y="270" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-15" target="mqXfY6w-uDlOi6dGzH6E-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="80" as="sourcePoint" />
+            <mxPoint x="510" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="555" y="40" />
+              <mxPoint x="238" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-35" target="mqXfY6w-uDlOi6dGzH6E-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="290" as="sourcePoint" />
+            <mxPoint x="180" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="280" />
+              <mxPoint x="60" y="280" />
+              <mxPoint x="60" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-35" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="150" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-36" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="220" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-37" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="380" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-25" target="mqXfY6w-uDlOi6dGzH6E-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="330" as="sourcePoint" />
+            <mxPoint x="240" y="245" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="215" />
+              <mxPoint x="240" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-39" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-13" target="mqXfY6w-uDlOi6dGzH6E-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="340" as="sourcePoint" />
+            <mxPoint x="660" y="245" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="215" />
+              <mxPoint x="830" y="280" />
+              <mxPoint x="740" y="280" />
+              <mxPoint x="400" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-40" value="+ palya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-43" value="+ tag" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-44" value="+ foglalas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-51" value="klub.foglalas_palya(palya, this, date, ido)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="250" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-53" value="klub.lemondas(palya, this, date, ido, currdate)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="310" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-56" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-25" target="mqXfY6w-uDlOi6dGzH6E-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="410" as="sourcePoint" />
+            <mxPoint x="830" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-58" value="newPalya = new Palya(sorszam, tipus, fedett, false)&lt;div&gt;palya.Add(newPalya)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="547" y="300" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-30" target="mqXfY6w-uDlOi6dGzH6E-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="500" as="sourcePoint" />
+            <mxPoint x="640" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-60" value="for i to palya.Count&amp;nbsp;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if palya[i].sorszam is sorszam then palya.RemoveAt(i),&amp;nbsp; l = false&lt;div&gt;if l then throw new error&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-61" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-32" target="mqXfY6w-uDlOi6dGzH6E-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="580" as="sourcePoint" />
+            <mxPoint x="630" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-62" value="newTag = new Tag(name, tipus)&lt;div&gt;tag.Add(newTag)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="650" y="450" width="280" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-63" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-45" target="mqXfY6w-uDlOi6dGzH6E-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="650" as="sourcePoint" />
+            <mxPoint x="640" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-64" value="tagToRemove = tag.Find(t.name is name)&lt;div&gt;if tagToRemove is not null then tag.Remove(tagToRemove)&lt;/div&gt;&lt;div&gt;endif&lt;/div&gt;&lt;div&gt;throw new error&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="650" y="515" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-65" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-46" target="mqXfY6w-uDlOi6dGzH6E-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="610" as="sourcePoint" />
+            <mxPoint x="620" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-66" value="if (palya.foglalt) then throw new error&lt;div&gt;if (ido &amp;lt; 6 &amp;amp;&amp;amp; ido &amp;gt; 20) then throw new error&lt;/div&gt;&lt;div&gt;endif&amp;nbsp;&lt;/div&gt;&lt;div&gt;newFoglalas = new Foglalas(palya, tag, date, ido)&lt;/div&gt;&lt;div&gt;palya.foglalt = true&lt;/div&gt;&lt;div&gt;foglalas.Add(newFoglalas)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="650" y="600" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-67" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-47" target="mqXfY6w-uDlOi6dGzH6E-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="740" as="sourcePoint" />
+            <mxPoint x="580" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-68" value="toRemove = new List&amp;lt;Foglalas&amp;gt;&lt;div&gt;foreach f in foglalas&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if f.palya is palya &amp;amp; f.tag is tag &amp;amp; f.date.Date is date.Date &amp;amp; f.ido is ido&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;then&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if f.date &amp;gt; currdate then toRemove.Add(f), found = true&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;endif&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;throw new error&lt;br&gt;&lt;/div&gt;&lt;div&gt;foreach f in toRemove&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;foglalas.Remove(f), palya.foglalt = false&lt;br&gt;&lt;/div&gt;&lt;div&gt;if !found&lt;/div&gt;&lt;div&gt;then&lt;/div&gt;&lt;div&gt;throw new error&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="720" width="410" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-69" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-48" target="mqXfY6w-uDlOi6dGzH6E-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="780" as="sourcePoint" />
+            <mxPoint x="420" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-70" value="Enums" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-160" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-71" value="+ Enums()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-70">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-72" value="+ Palya_tipus: &amp;lt;&amp;lt;enum&amp;gt;&amp;gt;&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-70">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-73" value="+ Jatekos_tipus: &amp;lt;&amp;lt;enum&amp;gt;&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-70">
+          <mxGeometry y="90" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-74" value="&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;div&gt;Palya_tipusok&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-160" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-75" value="fű" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-74">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-76" value="salak" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-74">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-77" value="muanyag" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-74">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-78" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-72" target="mqXfY6w-uDlOi6dGzH6E-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="-30" as="sourcePoint" />
+            <mxPoint x="610" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-79" value="&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;div&gt;Jatekos_tipusok&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-160" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-80" value="igazolt_sportolo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-79">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-81" value="diak" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-79">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-82" value="nyugdíjas" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-79">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-83" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-73" target="mqXfY6w-uDlOi6dGzH6E-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="-130" as="sourcePoint" />
+            <mxPoint x="720" y="-180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-82" target="mqXfY6w-uDlOi6dGzH6E-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="-70" as="sourcePoint" />
+            <mxPoint x="480" y="-120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="683" y="-55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-17" value="+ tipus" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-57" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-23" target="mqXfY6w-uDlOi6dGzH6E-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="420" as="sourcePoint" />
+            <mxPoint x="820" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqXfY6w-uDlOi6dGzH6E-77" target="mqXfY6w-uDlOi6dGzH6E-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="-30" as="sourcePoint" />
+            <mxPoint x="1170" y="-80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="-55" />
+              <mxPoint x="1120" />
+              <mxPoint x="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-86" value="+ tipus" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-87" value="+ FeltSearchPalya(klub: Teniszklub, tipus: Enums.Palya_tipus): List&amp;lt;Palya&amp;gt;&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-89" value="palyas = new List&amp;lt;Palya&amp;gt;&lt;div&gt;foreach p in klub.palya&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if p.tipus is tipus &amp;amp; !p.foglalt then palyas.Add(p)&lt;br&gt;&lt;/div&gt;&lt;div&gt;return palyas&lt;/div&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-87">
+          <mxGeometry y="30" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-91" value="+ FeltSearchFoglalasok(klub: Teniszklub, tag: Tag, date: DateTime): List&amp;lt;Foglalas&amp;gt;&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="480" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-92" value="matching = new List&amp;lt;Foglalas&amp;gt;&lt;div&gt;foreach p in klub.foglalas&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if p.tag.name is tag.name &amp;amp; !p.date.Date is date then matching.Add(p)&lt;br&gt;&lt;/div&gt;&lt;div&gt;return matching&lt;/div&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-91">
+          <mxGeometry y="30" width="480" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-93" value="+ Mennyibe(klub: Teniszklub, tag: Tag, date: DateTime): real" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="400" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-94" value="foreach p in klub.foglalas&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if p.tag.name is tag.name &amp;amp; p.date.Date is date.Date&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;then&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;switch p.tag.tipus&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case nyugdíjas: szorzo = 0.6&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case igazolt_sportolo: szorzo = 0.7&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case diak: szorzo = 0.8&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if p.palya.fedett then fedette = 1.2&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;endif fedette = 1&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;switch p.palya.tipus&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case fű: osszesen += 5000*szorzo*fedette&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case muanyag: osszesen += 2000*szorzo*fedette&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case salak: osszesen += 3000*szorzo*fedette&lt;/div&gt;&lt;div&gt;return osszesen&lt;/div&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-93">
+          <mxGeometry y="30" width="440" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-96" value="+ Klub_bevetel(klub: Teniszklub, date_kezdo: DateTime, date_vegso: DateTime): real" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="680" width="480" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="mqXfY6w-uDlOi6dGzH6E-97" value="foreach p in klub.foglalas&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if p.date &amp;gt; date_kezdo &amp;amp; p.date &amp;lt; date_vegso&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;then&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;switch p.tag.tipus&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case nyugdíjas: szorzo = 0.6&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case igazolt_sportolo: szorzo = 0.7&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case diak: szorzo = 0.8&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if p.palya.fedett then fedette = 1.2&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;endif fedette = 1&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;switch p.palya.tipus&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case fű: osszesen += 5000*szorzo*fedette&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case muanyag: osszesen += 2000*szorzo*fedette&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;case salak: osszesen += 3000*szorzo*fedette&lt;/div&gt;&lt;div&gt;return osszesen&lt;/div&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="mqXfY6w-uDlOi6dGzH6E-96">
+          <mxGeometry y="30" width="480" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

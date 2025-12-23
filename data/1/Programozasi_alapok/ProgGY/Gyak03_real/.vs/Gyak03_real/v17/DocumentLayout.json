@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Prog GY\\Gyak03_real\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63C43FD0-9BA6-4285-BB91-8406B8BF948E}|Gyak03_real\\Gyak03_real.csproj|c:\\prog gy\\gyak03_real\\gyak03_real\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C43FD0-9BA6-4285-BB91-8406B8BF948E}|Gyak03_real\\Gyak03_real.csproj|solutionrelative:gyak03_real\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Prog GY\\Gyak03_real\\Gyak03_real\\Program.cs",
+              "RelativeDocumentMoniker": "Gyak03_real\\Program.cs",
+              "ToolTip": "C:\\Prog GY\\Gyak03_real\\Gyak03_real\\Program.cs",
+              "RelativeToolTip": "Gyak03_real\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:58:12.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

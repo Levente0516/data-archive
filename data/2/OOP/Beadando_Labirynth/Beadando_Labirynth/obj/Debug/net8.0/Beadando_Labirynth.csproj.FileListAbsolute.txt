@@ -1,0 +1,14 @@
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\bin\Debug\net8.0\Beadando_Labirynth.exe
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\bin\Debug\net8.0\Beadando_Labirynth.deps.json
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\bin\Debug\net8.0\Beadando_Labirynth.runtimeconfig.json
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\bin\Debug\net8.0\Beadando_Labirynth.dll
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\bin\Debug\net8.0\Beadando_Labirynth.pdb
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\obj\Debug\net8.0\Beadando_Labirynth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\obj\Debug\net8.0\Beadando_Labirynth.AssemblyInfoInputs.cache
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\obj\Debug\net8.0\Beadando_Labirynth.AssemblyInfo.cs
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\obj\Debug\net8.0\Beadando_Labirynth.csproj.CoreCompileInputs.cache
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\obj\Debug\net8.0\Beadando_Labirynth.dll
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\obj\Debug\net8.0\refint\Beadando_Labirynth.dll
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\obj\Debug\net8.0\Beadando_Labirynth.pdb
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\obj\Debug\net8.0\Beadando_Labirynth.genruntimeconfig.cache
+C:\Egyetem\2\OOP\Beadando_Labirynth\Beadando_Labirynth\obj\Debug\net8.0\ref\Beadando_Labirynth.dll

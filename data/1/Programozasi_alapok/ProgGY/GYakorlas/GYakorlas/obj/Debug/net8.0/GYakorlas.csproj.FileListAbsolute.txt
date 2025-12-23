@@ -1,0 +1,14 @@
+C:\Prog GY\GYakorlas\GYakorlas\bin\Debug\net8.0\GYakorlas.exe
+C:\Prog GY\GYakorlas\GYakorlas\bin\Debug\net8.0\GYakorlas.deps.json
+C:\Prog GY\GYakorlas\GYakorlas\bin\Debug\net8.0\GYakorlas.runtimeconfig.json
+C:\Prog GY\GYakorlas\GYakorlas\bin\Debug\net8.0\GYakorlas.dll
+C:\Prog GY\GYakorlas\GYakorlas\bin\Debug\net8.0\GYakorlas.pdb
+C:\Prog GY\GYakorlas\GYakorlas\obj\Debug\net8.0\GYakorlas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog GY\GYakorlas\GYakorlas\obj\Debug\net8.0\GYakorlas.AssemblyInfoInputs.cache
+C:\Prog GY\GYakorlas\GYakorlas\obj\Debug\net8.0\GYakorlas.AssemblyInfo.cs
+C:\Prog GY\GYakorlas\GYakorlas\obj\Debug\net8.0\GYakorlas.csproj.CoreCompileInputs.cache
+C:\Prog GY\GYakorlas\GYakorlas\obj\Debug\net8.0\GYakorlas.dll
+C:\Prog GY\GYakorlas\GYakorlas\obj\Debug\net8.0\refint\GYakorlas.dll
+C:\Prog GY\GYakorlas\GYakorlas\obj\Debug\net8.0\GYakorlas.pdb
+C:\Prog GY\GYakorlas\GYakorlas\obj\Debug\net8.0\GYakorlas.genruntimeconfig.cache
+C:\Prog GY\GYakorlas\GYakorlas\obj\Debug\net8.0\ref\GYakorlas.dll

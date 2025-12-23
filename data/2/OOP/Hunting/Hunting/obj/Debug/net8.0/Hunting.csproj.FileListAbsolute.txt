@@ -1,0 +1,16 @@
+C:\Egyetem\2\OOP\Hunting\Hunting\bin\Debug\net8.0\input.txt
+C:\Egyetem\2\OOP\Hunting\Hunting\bin\Debug\net8.0\Hunting.exe
+C:\Egyetem\2\OOP\Hunting\Hunting\bin\Debug\net8.0\Hunting.deps.json
+C:\Egyetem\2\OOP\Hunting\Hunting\bin\Debug\net8.0\Hunting.runtimeconfig.json
+C:\Egyetem\2\OOP\Hunting\Hunting\bin\Debug\net8.0\Hunting.dll
+C:\Egyetem\2\OOP\Hunting\Hunting\bin\Debug\net8.0\Hunting.pdb
+C:\Egyetem\2\OOP\Hunting\Hunting\obj\Debug\net8.0\Hunting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\2\OOP\Hunting\Hunting\obj\Debug\net8.0\Hunting.AssemblyInfoInputs.cache
+C:\Egyetem\2\OOP\Hunting\Hunting\obj\Debug\net8.0\Hunting.AssemblyInfo.cs
+C:\Egyetem\2\OOP\Hunting\Hunting\obj\Debug\net8.0\Hunting.csproj.CoreCompileInputs.cache
+C:\Egyetem\2\OOP\Hunting\Hunting\obj\Debug\net8.0\Hunting.sourcelink.json
+C:\Egyetem\2\OOP\Hunting\Hunting\obj\Debug\net8.0\Hunting.dll
+C:\Egyetem\2\OOP\Hunting\Hunting\obj\Debug\net8.0\refint\Hunting.dll
+C:\Egyetem\2\OOP\Hunting\Hunting\obj\Debug\net8.0\Hunting.pdb
+C:\Egyetem\2\OOP\Hunting\Hunting\obj\Debug\net8.0\Hunting.genruntimeconfig.cache
+C:\Egyetem\2\OOP\Hunting\Hunting\obj\Debug\net8.0\ref\Hunting.dll

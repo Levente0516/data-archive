@@ -1,0 +1,8 @@
+﻿Joszi		nyugdijas 
+Anna		diak
+Petra		igazolt_sportolo
+Attila		nyugdijas 
+Bence		igazolt_sportolo
+Zsofi		diak
+Benedek		nyugdijas 
+Antal		igazolt_sportolo

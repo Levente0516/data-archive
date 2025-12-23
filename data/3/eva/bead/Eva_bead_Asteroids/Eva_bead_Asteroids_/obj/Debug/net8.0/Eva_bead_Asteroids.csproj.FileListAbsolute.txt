@@ -1,0 +1,15 @@
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\bin\Debug\net8.0\Eva_bead_Asteroids.exe
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\bin\Debug\net8.0\Eva_bead_Asteroids.deps.json
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\bin\Debug\net8.0\Eva_bead_Asteroids.runtimeconfig.json
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\bin\Debug\net8.0\Eva_bead_Asteroids.dll
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\bin\Debug\net8.0\Eva_bead_Asteroids.pdb
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\obj\Debug\net8.0\Eva_bead_Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\obj\Debug\net8.0\Eva_bead_Asteroids.AssemblyInfoInputs.cache
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\obj\Debug\net8.0\Eva_bead_Asteroids.AssemblyInfo.cs
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\obj\Debug\net8.0\Eva_bead_Asteroids.csproj.CoreCompileInputs.cache
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\obj\Debug\net8.0\Eva_bead_Asteroids.sourcelink.json
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\obj\Debug\net8.0\Eva_bead_Asteroids.dll
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\obj\Debug\net8.0\refint\Eva_bead_Asteroids.dll
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\obj\Debug\net8.0\Eva_bead_Asteroids.pdb
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\obj\Debug\net8.0\Eva_bead_Asteroids.genruntimeconfig.cache
+C:\Egyetem\3\eva\bead\Eva_bead_Asteroids\Eva_bead_Asteroids_\obj\Debug\net8.0\ref\Eva_bead_Asteroids.dll

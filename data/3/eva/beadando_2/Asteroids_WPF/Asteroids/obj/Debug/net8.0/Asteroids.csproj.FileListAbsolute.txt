@@ -1,0 +1,12 @@
+C:\Egyetem\3\eva\beadando_2\Asteroids_WPF\Asteroids\bin\Debug\net8.0\Asteroids.deps.json
+C:\Egyetem\3\eva\beadando_2\Asteroids_WPF\Asteroids\bin\Debug\net8.0\Asteroids.dll
+C:\Egyetem\3\eva\beadando_2\Asteroids_WPF\Asteroids\bin\Debug\net8.0\Asteroids.pdb
+C:\Egyetem\3\eva\beadando_2\Asteroids_WPF\Asteroids\obj\Debug\net8.0\Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\3\eva\beadando_2\Asteroids_WPF\Asteroids\obj\Debug\net8.0\Asteroids.AssemblyInfoInputs.cache
+C:\Egyetem\3\eva\beadando_2\Asteroids_WPF\Asteroids\obj\Debug\net8.0\Asteroids.AssemblyInfo.cs
+C:\Egyetem\3\eva\beadando_2\Asteroids_WPF\Asteroids\obj\Debug\net8.0\Asteroids.csproj.CoreCompileInputs.cache
+C:\Egyetem\3\eva\beadando_2\Asteroids_WPF\Asteroids\obj\Debug\net8.0\Asteroids.sourcelink.json
+C:\Egyetem\3\eva\beadando_2\Asteroids_WPF\Asteroids\obj\Debug\net8.0\Asteroids.dll
+C:\Egyetem\3\eva\beadando_2\Asteroids_WPF\Asteroids\obj\Debug\net8.0\refint\Asteroids.dll
+C:\Egyetem\3\eva\beadando_2\Asteroids_WPF\Asteroids\obj\Debug\net8.0\Asteroids.pdb
+C:\Egyetem\3\eva\beadando_2\Asteroids_WPF\Asteroids\obj\Debug\net8.0\ref\Asteroids.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SlSoWHZRvo6WqHbZY9KxzIeiYeZOUzZ00oi/zjl3apt2eIvRhRqB08Z5F71X7h1cBwpqsh9B4vhRdy/Mq9X9bA==",
+  "success": true,
+  "projectFilePath": "/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/levi/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

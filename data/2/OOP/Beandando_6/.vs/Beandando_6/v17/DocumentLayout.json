@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Egyetem\\2\\OOP\\Beandando_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10B1D7-F805-4FFC-BD8E-860446481717}|Beandando_6\\Beandando_6.csproj|c:\\egyetem\\2\\oop\\beandando_6\\beandando_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10B1D7-F805-4FFC-BD8E-860446481717}|Beandando_6\\Beandando_6.csproj|solutionrelative:beandando_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10B1D7-F805-4FFC-BD8E-860446481717}|Beandando_6\\Beandando_6.csproj|c:\\egyetem\\2\\oop\\beandando_6\\beandando_6\\readin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10B1D7-F805-4FFC-BD8E-860446481717}|Beandando_6\\Beandando_6.csproj|solutionrelative:beandando_6\\readin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10B1D7-F805-4FFC-BD8E-860446481717}|Beandando_6\\Beandando_6.csproj|c:\\egyetem\\2\\oop\\beandando_6\\beandando_6\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10B1D7-F805-4FFC-BD8E-860446481717}|Beandando_6\\Beandando_6.csproj|solutionrelative:beandando_6\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10B1D7-F805-4FFC-BD8E-860446481717}|Beandando_6\\Beandando_6.csproj|c:\\egyetem\\2\\oop\\beandando_6\\beandando_6\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA10B1D7-F805-4FFC-BD8E-860446481717}|Beandando_6\\Beandando_6.csproj|solutionrelative:beandando_6\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA10B1D7-F805-4FFC-BD8E-860446481717}|Beandando_6\\Beandando_6.csproj|c:\\egyetem\\2\\oop\\beandando_6\\beandando_6\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA10B1D7-F805-4FFC-BD8E-860446481717}|Beandando_6\\Beandando_6.csproj|solutionrelative:beandando_6\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadIn.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Beandando_6\\Beandando_6\\ReadIn.cs",
+              "RelativeDocumentMoniker": "Beandando_6\\ReadIn.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Beandando_6\\Beandando_6\\ReadIn.cs",
+              "RelativeToolTip": "Beandando_6\\ReadIn.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:44:36.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Beandando_6\\Beandando_6\\input.txt",
+              "RelativeDocumentMoniker": "Beandando_6\\input.txt",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Beandando_6\\Beandando_6\\input.txt",
+              "RelativeToolTip": "Beandando_6\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-29T13:39:33.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Beandando_6\\Beandando_6\\Product.cs",
+              "RelativeDocumentMoniker": "Beandando_6\\Product.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Beandando_6\\Beandando_6\\Product.cs",
+              "RelativeToolTip": "Beandando_6\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:26:25.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Beandando_6\\Beandando_6\\Bill.cs",
+              "RelativeDocumentMoniker": "Beandando_6\\Bill.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Beandando_6\\Beandando_6\\Bill.cs",
+              "RelativeToolTip": "Beandando_6\\Bill.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:25:44.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Beandando_6\\Beandando_6\\Program.cs",
+              "RelativeDocumentMoniker": "Beandando_6\\Program.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Beandando_6\\Beandando_6\\Program.cs",
+              "RelativeToolTip": "Beandando_6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:24:28.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

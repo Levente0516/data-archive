@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iNFWl5Mh52wk857YjKX48LlDmE0m2uW9OBCvkjxZzIlXmV9wROme3FqPjV1x2JRH+ky+VhOhzZMT+N5Lne72zw==",
+  "success": true,
+  "projectFilePath": "/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07/Gyak07.csproj",
+  "expectedPackageFiles": [
+    "/home/levi/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

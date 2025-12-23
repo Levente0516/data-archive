@@ -1,0 +1,14 @@
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/bin/Debug/net8.0/Gyak07-2
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/bin/Debug/net8.0/Gyak07-2.deps.json
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/bin/Debug/net8.0/Gyak07-2.runtimeconfig.json
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/bin/Debug/net8.0/Gyak07-2.dll
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/bin/Debug/net8.0/Gyak07-2.pdb
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/obj/Debug/net8.0/Gyak07-2.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/obj/Debug/net8.0/Gyak07-2.AssemblyInfoInputs.cache
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/obj/Debug/net8.0/Gyak07-2.AssemblyInfo.cs
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/obj/Debug/net8.0/Gyak07-2.csproj.CoreCompileInputs.cache
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/obj/Debug/net8.0/Gyak07-2.dll
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/obj/Debug/net8.0/refint/Gyak07-2.dll
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/obj/Debug/net8.0/Gyak07-2.pdb
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/obj/Debug/net8.0/Gyak07-2.genruntimeconfig.cache
+/run/media/levi/Windows-SSD/Egyetem/1/Programozasi_alapok/ProgGyak/Gyak07-2/obj/Debug/net8.0/ref/Gyak07-2.dll

@@ -1,0 +1,14 @@
+C:\ProgGyak\gyak06\bin\Debug\net8.0\gyak06.exe
+C:\ProgGyak\gyak06\bin\Debug\net8.0\gyak06.deps.json
+C:\ProgGyak\gyak06\bin\Debug\net8.0\gyak06.runtimeconfig.json
+C:\ProgGyak\gyak06\bin\Debug\net8.0\gyak06.dll
+C:\ProgGyak\gyak06\bin\Debug\net8.0\gyak06.pdb
+C:\ProgGyak\gyak06\obj\Debug\net8.0\gyak06.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgGyak\gyak06\obj\Debug\net8.0\gyak06.AssemblyInfoInputs.cache
+C:\ProgGyak\gyak06\obj\Debug\net8.0\gyak06.AssemblyInfo.cs
+C:\ProgGyak\gyak06\obj\Debug\net8.0\gyak06.csproj.CoreCompileInputs.cache
+C:\ProgGyak\gyak06\obj\Debug\net8.0\gyak06.dll
+C:\ProgGyak\gyak06\obj\Debug\net8.0\refint\gyak06.dll
+C:\ProgGyak\gyak06\obj\Debug\net8.0\gyak06.pdb
+C:\ProgGyak\gyak06\obj\Debug\net8.0\gyak06.genruntimeconfig.cache
+C:\ProgGyak\gyak06\obj\Debug\net8.0\ref\gyak06.dll

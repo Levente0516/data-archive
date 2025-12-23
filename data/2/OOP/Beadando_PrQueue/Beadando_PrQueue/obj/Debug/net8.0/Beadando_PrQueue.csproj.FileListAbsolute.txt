@@ -1,0 +1,15 @@
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\bin\Debug\net8.0\Beadando_PrQueue.exe
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\bin\Debug\net8.0\Beadando_PrQueue.deps.json
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\bin\Debug\net8.0\Beadando_PrQueue.runtimeconfig.json
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\bin\Debug\net8.0\Beadando_PrQueue.dll
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\bin\Debug\net8.0\Beadando_PrQueue.pdb
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\obj\Debug\net8.0\Beadando_PrQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\obj\Debug\net8.0\Beadando_PrQueue.AssemblyInfoInputs.cache
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\obj\Debug\net8.0\Beadando_PrQueue.AssemblyInfo.cs
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\obj\Debug\net8.0\Beadando_PrQueue.csproj.CoreCompileInputs.cache
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\obj\Debug\net8.0\Beadando_PrQueue.sourcelink.json
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\obj\Debug\net8.0\Beadando_PrQueue.dll
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\obj\Debug\net8.0\refint\Beadando_PrQueue.dll
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\obj\Debug\net8.0\Beadando_PrQueue.pdb
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\obj\Debug\net8.0\Beadando_PrQueue.genruntimeconfig.cache
+C:\Egyetem\2\OOP\Beadando_PrQueue\Beadando_PrQueue\obj\Debug\net8.0\ref\Beadando_PrQueue.dll

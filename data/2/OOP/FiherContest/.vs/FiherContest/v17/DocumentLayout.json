@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Egyetem\\2\\OOP\\FiherContest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|c:\\egyetem\\2\\oop\\fihercontest\\fihercontest\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|solutionrelative:fihercontest\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|c:\\egyetem\\2\\oop\\fihercontest\\fihercontest\\ifish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|solutionrelative:fihercontest\\ifish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|c:\\egyetem\\2\\oop\\fihercontest\\fihercontest\\contest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|solutionrelative:fihercontest\\contest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|c:\\egyetem\\2\\oop\\fihercontest\\fihercontest\\catching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|solutionrelative:fihercontest\\catching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|c:\\egyetem\\2\\oop\\fihercontest\\fihercontest\\fisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|solutionrelative:fihercontest\\fisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|c:\\egyetem\\2\\oop\\fihercontest\\fihercontest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|solutionrelative:fihercontest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|c:\\egyetem\\2\\oop\\fihercontest\\fihercontest\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|solutionrelative:fihercontest\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|c:\\egyetem\\2\\oop\\fihercontest\\fihercontest\\contest.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|solutionrelative:fihercontest\\contest.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|c:\\egyetem\\2\\oop\\fihercontest\\fihercontest\\contest3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|solutionrelative:fihercontest\\contest3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|c:\\egyetem\\2\\oop\\fihercontest\\fihercontest\\contest2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|solutionrelative:fihercontest\\contest2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|c:\\egyetem\\2\\oop\\fihercontest\\fihercontest\\contest1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2EEE5FFC-7C29-48DC-9B86-736163E67B86}|FiherContest\\FiherContest.csproj|solutionrelative:fihercontest\\contest1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fisher.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\Fisher.cs",
+              "RelativeDocumentMoniker": "FiherContest\\Fisher.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\Fisher.cs",
+              "RelativeToolTip": "FiherContest\\Fisher.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:02:06.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contest.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\Contest.cs",
+              "RelativeDocumentMoniker": "FiherContest\\Contest.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\Contest.cs",
+              "RelativeToolTip": "FiherContest\\Contest.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswBEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:50:13.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\Organization.cs",
+              "RelativeDocumentMoniker": "FiherContest\\Organization.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\Organization.cs",
+              "RelativeToolTip": "FiherContest\\Organization.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:33:35.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFish.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\IFish.cs",
+              "RelativeDocumentMoniker": "FiherContest\\IFish.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\IFish.cs",
+              "RelativeToolTip": "FiherContest\\IFish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:23:00.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Catching.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\Catching.cs",
+              "RelativeDocumentMoniker": "FiherContest\\Catching.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\Catching.cs",
+              "RelativeToolTip": "FiherContest\\Catching.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:17:30.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "contest3.txt",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\contest3.txt",
+              "RelativeDocumentMoniker": "FiherContest\\contest3.txt",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\contest3.txt",
+              "RelativeToolTip": "FiherContest\\contest3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-25T06:15:16.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\Program.cs",
+              "RelativeDocumentMoniker": "FiherContest\\Program.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\Program.cs",
+              "RelativeToolTip": "FiherContest\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:06:25.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "contest2.txt",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\contest2.txt",
+              "RelativeDocumentMoniker": "FiherContest\\contest2.txt",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\contest2.txt",
+              "RelativeToolTip": "FiherContest\\contest2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-25T06:13:47.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "contest1.txt",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\contest1.txt",
+              "RelativeDocumentMoniker": "FiherContest\\contest1.txt",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\contest1.txt",
+              "RelativeToolTip": "FiherContest\\contest1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-25T06:10:20.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "contest.txt",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\contest.txt",
+              "RelativeDocumentMoniker": "FiherContest\\contest.txt",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\contest.txt",
+              "RelativeToolTip": "FiherContest\\contest.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-25T06:08:48.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\input.txt",
+              "RelativeDocumentMoniker": "FiherContest\\input.txt",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\FiherContest\\FiherContest\\input.txt",
+              "RelativeToolTip": "FiherContest\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-25T06:06:37.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

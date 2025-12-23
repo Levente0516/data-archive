@@ -1,0 +1,52 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:Asteroids_Model.ViewModel"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Asteroids_Ava.Views.MainWindow"
+        x:DataType="vm:AsteroidViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="Asteroids_Ava">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" KeyboardNavigation.TabNavigation="None">
+            <MenuItem Header="File">
+                <MenuItem Header="Save" Command="{Binding SaveGame}"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Load" Command="{Binding LoadGame}"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="New Game" Command="{Binding NewGame}"></MenuItem>
+            <MenuItem Header="{Binding PauseButtonText}" Command="{Binding PauseResumeGame}"></MenuItem>
+        </Menu>
+        
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Background="{DynamicResource SystemControlBackgroundChromeMediumLowBrush}">
+            <TextBlock Text="Time:" Margin="5,2"/>
+            <TextBlock Text="{Binding GameTime}" Margin="5,2"/>
+            <Rectangle Width="1" Fill="Gray" Margin="5,0"/>
+            <TextBlock Text="Asteroid spawn chance:" Margin="5,2"/>
+            <TextBlock Text="{Binding SpawnChance}" Margin="5,2"/>
+        </StackPanel>
+        
+        <Border Margin="20" BorderBrush="Black" BorderThickness="2" 
+                Focusable="True" 
+                Name="GameBorder">
+            <ItemsControl ItemsSource="{Binding Cells}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid Rows="{Binding Rows, FallbackValue=10}"
+                                     Columns="{Binding Columns, FallbackValue=10}"/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border Background="{Binding CellColor, FallbackValue=LightGray}" 
+                                BorderBrush="Black" 
+                                BorderThickness="1"
+                                MinWidth="20"
+                                MinHeight="20"/>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </Border>
+    </DockPanel>
+</Window>

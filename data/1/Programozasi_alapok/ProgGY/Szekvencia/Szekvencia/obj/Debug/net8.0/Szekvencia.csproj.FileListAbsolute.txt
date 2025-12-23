@@ -1,0 +1,14 @@
+C:\Prog GY\Szekvencia\Szekvencia\bin\Debug\net8.0\Szekvencia.exe
+C:\Prog GY\Szekvencia\Szekvencia\bin\Debug\net8.0\Szekvencia.deps.json
+C:\Prog GY\Szekvencia\Szekvencia\bin\Debug\net8.0\Szekvencia.runtimeconfig.json
+C:\Prog GY\Szekvencia\Szekvencia\bin\Debug\net8.0\Szekvencia.dll
+C:\Prog GY\Szekvencia\Szekvencia\bin\Debug\net8.0\Szekvencia.pdb
+C:\Prog GY\Szekvencia\Szekvencia\obj\Debug\net8.0\Szekvencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog GY\Szekvencia\Szekvencia\obj\Debug\net8.0\Szekvencia.AssemblyInfoInputs.cache
+C:\Prog GY\Szekvencia\Szekvencia\obj\Debug\net8.0\Szekvencia.AssemblyInfo.cs
+C:\Prog GY\Szekvencia\Szekvencia\obj\Debug\net8.0\Szekvencia.csproj.CoreCompileInputs.cache
+C:\Prog GY\Szekvencia\Szekvencia\obj\Debug\net8.0\Szekvencia.dll
+C:\Prog GY\Szekvencia\Szekvencia\obj\Debug\net8.0\refint\Szekvencia.dll
+C:\Prog GY\Szekvencia\Szekvencia\obj\Debug\net8.0\Szekvencia.pdb
+C:\Prog GY\Szekvencia\Szekvencia\obj\Debug\net8.0\Szekvencia.genruntimeconfig.cache
+C:\Prog GY\Szekvencia\Szekvencia\obj\Debug\net8.0\ref\Szekvencia.dll

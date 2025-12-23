@@ -1,0 +1,12 @@
+C:\Egyetem\3\eva\Sudoku_Avalonia\Sudoku_Avalonia\Sudoku\bin\Debug\net8.0\Sudoku.deps.json
+C:\Egyetem\3\eva\Sudoku_Avalonia\Sudoku_Avalonia\Sudoku\bin\Debug\net8.0\Sudoku.dll
+C:\Egyetem\3\eva\Sudoku_Avalonia\Sudoku_Avalonia\Sudoku\bin\Debug\net8.0\Sudoku.pdb
+C:\Egyetem\3\eva\Sudoku_Avalonia\Sudoku_Avalonia\Sudoku\obj\Debug\net8.0\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\3\eva\Sudoku_Avalonia\Sudoku_Avalonia\Sudoku\obj\Debug\net8.0\Sudoku.AssemblyInfoInputs.cache
+C:\Egyetem\3\eva\Sudoku_Avalonia\Sudoku_Avalonia\Sudoku\obj\Debug\net8.0\Sudoku.AssemblyInfo.cs
+C:\Egyetem\3\eva\Sudoku_Avalonia\Sudoku_Avalonia\Sudoku\obj\Debug\net8.0\Sudoku.csproj.CoreCompileInputs.cache
+C:\Egyetem\3\eva\Sudoku_Avalonia\Sudoku_Avalonia\Sudoku\obj\Debug\net8.0\Sudoku.sourcelink.json
+C:\Egyetem\3\eva\Sudoku_Avalonia\Sudoku_Avalonia\Sudoku\obj\Debug\net8.0\Sudoku.dll
+C:\Egyetem\3\eva\Sudoku_Avalonia\Sudoku_Avalonia\Sudoku\obj\Debug\net8.0\refint\Sudoku.dll
+C:\Egyetem\3\eva\Sudoku_Avalonia\Sudoku_Avalonia\Sudoku\obj\Debug\net8.0\Sudoku.pdb
+C:\Egyetem\3\eva\Sudoku_Avalonia\Sudoku_Avalonia\Sudoku\obj\Debug\net8.0\ref\Sudoku.dll

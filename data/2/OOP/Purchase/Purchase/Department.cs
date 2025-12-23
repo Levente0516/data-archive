@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using TextFile;
+
+namespace Purchase
+{
+    class Department
+    {
+        public List<Product> stock = new();
+        public Department(string filename)
+        {
+            TextFileReader reader = new(filename);
+            while(Product.Read(reader, out Product product))
+            {
+                stock.Add(product);
+            }
+        }
+    }
+}

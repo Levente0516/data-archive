@@ -1,0 +1,71 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:ELTE.ImageDownloader.Avalonia.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="ELTE.ImageDownloader.Avalonia.Views.MainView"
+             x:DataType="vm:MainViewModel">
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+         to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <vm:MainViewModel />
+    </Design.DataContext>
+
+    <DockPanel x:Name="Panel">
+
+        <StackPanel Orientation="Vertical" DockPanel.Dock="Top">
+            <Grid ColumnDefinitions="*,*">
+                <TextBox Grid.Column="0" x:Name="UrlTextBox" Text="https://www.inf.elte.hu/" />
+                <TextBox Grid.Column="1" Text="{Binding SearchContent}" Watermark="Keresés ..."/>
+            </Grid>
+            <Button Content="{Binding DownloadButtonLabel}"
+                    Command="{Binding DownloadCommand}"
+                    CommandParameter="{Binding #UrlTextBox.Text}"
+                    HorizontalAlignment="Stretch" HorizontalContentAlignment="Center"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Bottom">
+            <Label Margin="10,0,0,0" Content="Képek száma: " />
+            <Label Content="{Binding Images.Count}" />
+            <ProgressBar Value="{Binding Progress}"
+                         IsVisible="{Binding IsDownloading}"
+                         MinWidth="150"
+                         Margin="10,0,0,0" />
+        </StackPanel>
+
+        <ScrollViewer>
+            <ItemsControl ItemsSource="{Binding Images}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel Orientation="Horizontal" />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Button
+                            Width="100" Height="100"
+                            Margin="5"
+                            Command="{Binding #Panel.((vm:MainViewModel)DataContext).ImageSelectCommand}"
+                            CommandParameter="{Binding Image}"
+                            IsEnabled="{Binding IsEnabled}">
+                          <Image Stretch="Fill" Source="{Binding Image}"
+                                 Classes.IsHighlighted="{Binding IsEnabled}">
+                            <Image.Styles>
+                                <Style Selector="Image">
+                                    <Setter Property="Opacity" Value="0.1" />
+                                </Style>
+                                <Style Selector="Image.IsHighlighted">
+                                    <Setter Property="Opacity" Value="1" />
+                                </Style>
+                            </Image.Styles>
+                          </Image>
+                        </Button>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+
+    </DockPanel>
+
+</UserControl>

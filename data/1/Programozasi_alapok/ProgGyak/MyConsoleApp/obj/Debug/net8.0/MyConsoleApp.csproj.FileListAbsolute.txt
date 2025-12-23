@@ -1,0 +1,14 @@
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.deps.json
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.runtimeconfig.json
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.dll
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.pdb
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.dll
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/obj/Debug/net8.0/refint/MyConsoleApp.dll
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
+/run/media/levi/Windows-SSD/ProgGyak/MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll

@@ -1,0 +1,15 @@
+C:\Egyetem\2\OOP\randomshit\randomshit\bin\Debug\net8.0\randomshit.exe
+C:\Egyetem\2\OOP\randomshit\randomshit\bin\Debug\net8.0\randomshit.deps.json
+C:\Egyetem\2\OOP\randomshit\randomshit\bin\Debug\net8.0\randomshit.runtimeconfig.json
+C:\Egyetem\2\OOP\randomshit\randomshit\bin\Debug\net8.0\randomshit.dll
+C:\Egyetem\2\OOP\randomshit\randomshit\bin\Debug\net8.0\randomshit.pdb
+C:\Egyetem\2\OOP\randomshit\randomshit\obj\Debug\net8.0\randomshit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\2\OOP\randomshit\randomshit\obj\Debug\net8.0\randomshit.AssemblyInfoInputs.cache
+C:\Egyetem\2\OOP\randomshit\randomshit\obj\Debug\net8.0\randomshit.AssemblyInfo.cs
+C:\Egyetem\2\OOP\randomshit\randomshit\obj\Debug\net8.0\randomshit.csproj.CoreCompileInputs.cache
+C:\Egyetem\2\OOP\randomshit\randomshit\obj\Debug\net8.0\randomshit.sourcelink.json
+C:\Egyetem\2\OOP\randomshit\randomshit\obj\Debug\net8.0\randomshit.dll
+C:\Egyetem\2\OOP\randomshit\randomshit\obj\Debug\net8.0\refint\randomshit.dll
+C:\Egyetem\2\OOP\randomshit\randomshit\obj\Debug\net8.0\randomshit.pdb
+C:\Egyetem\2\OOP\randomshit\randomshit\obj\Debug\net8.0\randomshit.genruntimeconfig.cache
+C:\Egyetem\2\OOP\randomshit\randomshit\obj\Debug\net8.0\ref\randomshit.dll

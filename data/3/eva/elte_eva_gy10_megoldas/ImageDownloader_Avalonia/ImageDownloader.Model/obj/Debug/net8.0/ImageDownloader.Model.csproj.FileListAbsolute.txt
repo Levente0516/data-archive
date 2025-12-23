@@ -1,0 +1,13 @@
+C:\Egyetem\3\eva\elte_eva_gy10_megoldas\ImageDownloader_Avalonia\ImageDownloader.Model\bin\Debug\net8.0\ImageDownloader.Model.deps.json
+C:\Egyetem\3\eva\elte_eva_gy10_megoldas\ImageDownloader_Avalonia\ImageDownloader.Model\bin\Debug\net8.0\ImageDownloader.Model.dll
+C:\Egyetem\3\eva\elte_eva_gy10_megoldas\ImageDownloader_Avalonia\ImageDownloader.Model\bin\Debug\net8.0\ImageDownloader.Model.pdb
+C:\Egyetem\3\eva\elte_eva_gy10_megoldas\ImageDownloader_Avalonia\ImageDownloader.Model\obj\Debug\net8.0\ImageDownloader.Model.csproj.AssemblyReference.cache
+C:\Egyetem\3\eva\elte_eva_gy10_megoldas\ImageDownloader_Avalonia\ImageDownloader.Model\obj\Debug\net8.0\ImageDownloader.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\3\eva\elte_eva_gy10_megoldas\ImageDownloader_Avalonia\ImageDownloader.Model\obj\Debug\net8.0\ImageDownloader.Model.AssemblyInfoInputs.cache
+C:\Egyetem\3\eva\elte_eva_gy10_megoldas\ImageDownloader_Avalonia\ImageDownloader.Model\obj\Debug\net8.0\ImageDownloader.Model.AssemblyInfo.cs
+C:\Egyetem\3\eva\elte_eva_gy10_megoldas\ImageDownloader_Avalonia\ImageDownloader.Model\obj\Debug\net8.0\ImageDownloader.Model.csproj.CoreCompileInputs.cache
+C:\Egyetem\3\eva\elte_eva_gy10_megoldas\ImageDownloader_Avalonia\ImageDownloader.Model\obj\Debug\net8.0\ImageDownloader.Model.sourcelink.json
+C:\Egyetem\3\eva\elte_eva_gy10_megoldas\ImageDownloader_Avalonia\ImageDownloader.Model\obj\Debug\net8.0\ImageDownloader.Model.dll
+C:\Egyetem\3\eva\elte_eva_gy10_megoldas\ImageDownloader_Avalonia\ImageDownloader.Model\obj\Debug\net8.0\refint\ImageDownloader.Model.dll
+C:\Egyetem\3\eva\elte_eva_gy10_megoldas\ImageDownloader_Avalonia\ImageDownloader.Model\obj\Debug\net8.0\ImageDownloader.Model.pdb
+C:\Egyetem\3\eva\elte_eva_gy10_megoldas\ImageDownloader_Avalonia\ImageDownloader.Model\obj\Debug\net8.0\ref\ImageDownloader.Model.dll

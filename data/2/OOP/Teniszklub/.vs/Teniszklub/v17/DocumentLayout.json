@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Egyetem\\2\\OOP\\Teniszklub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E82478-9783-480F-B757-7BE02DF793C7}|TestProject1\\TestProject1.csproj|c:\\egyetem\\2\\oop\\teniszklub\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E82478-9783-480F-B757-7BE02DF793C7}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|c:\\egyetem\\2\\oop\\teniszklub\\teniszklub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|solutionrelative:teniszklub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|c:\\egyetem\\2\\oop\\teniszklub\\teniszklub\\teniszklub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|solutionrelative:teniszklub\\teniszklub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|c:\\egyetem\\2\\oop\\teniszklub\\teniszklub\\palya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|solutionrelative:teniszklub\\palya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|c:\\egyetem\\2\\oop\\teniszklub\\teniszklub\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|solutionrelative:teniszklub\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|c:\\egyetem\\2\\oop\\teniszklub\\teniszklub\\palyak.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|solutionrelative:teniszklub\\palyak.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|c:\\egyetem\\2\\oop\\teniszklub\\teniszklub\\tagok.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|solutionrelative:teniszklub\\tagok.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|c:\\egyetem\\2\\oop\\teniszklub\\teniszklub\\foglalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|solutionrelative:teniszklub\\foglalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|c:\\egyetem\\2\\oop\\teniszklub\\teniszklub\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B88C16-A5A9-417A-9268-396761316678}|Teniszklub\\Teniszklub.csproj|solutionrelative:teniszklub\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Teniszklub\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Teniszklub\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwGsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:06:28.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tagok.txt",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Tagok.txt",
+              "RelativeDocumentMoniker": "Teniszklub\\Tagok.txt",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Tagok.txt",
+              "RelativeToolTip": "Teniszklub\\Tagok.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-13T15:40:31.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teniszklub.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Teniszklub.cs",
+              "RelativeDocumentMoniker": "Teniszklub\\Teniszklub.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Teniszklub.cs",
+              "RelativeToolTip": "Teniszklub\\Teniszklub.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:29:24.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Tag.cs",
+              "RelativeDocumentMoniker": "Teniszklub\\Tag.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Tag.cs",
+              "RelativeToolTip": "Teniszklub\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:16:31.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Palya.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Palya.cs",
+              "RelativeDocumentMoniker": "Teniszklub\\Palya.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Palya.cs",
+              "RelativeToolTip": "Teniszklub\\Palya.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:15:25.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Foglalas.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Foglalas.cs",
+              "RelativeDocumentMoniker": "Teniszklub\\Foglalas.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Foglalas.cs",
+              "RelativeToolTip": "Teniszklub\\Foglalas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:23:23.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Enums.cs",
+              "RelativeDocumentMoniker": "Teniszklub\\Enums.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Enums.cs",
+              "RelativeToolTip": "Teniszklub\\Enums.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:15:59.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Program.cs",
+              "RelativeDocumentMoniker": "Teniszklub\\Program.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Program.cs",
+              "RelativeToolTip": "Teniszklub\\Program.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAiwJ4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:13:34.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Palyak.txt",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Palyak.txt",
+              "RelativeDocumentMoniker": "Teniszklub\\Palyak.txt",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Teniszklub\\Teniszklub\\Palyak.txt",
+              "RelativeToolTip": "Teniszklub\\Palyak.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-07T09:05:49.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

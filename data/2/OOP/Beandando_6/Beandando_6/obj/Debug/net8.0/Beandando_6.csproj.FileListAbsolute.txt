@@ -1,0 +1,16 @@
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\bin\Debug\net8.0\Beandando_6.exe
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\bin\Debug\net8.0\Beandando_6.deps.json
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\bin\Debug\net8.0\Beandando_6.runtimeconfig.json
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\bin\Debug\net8.0\Beandando_6.dll
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\bin\Debug\net8.0\Beandando_6.pdb
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\obj\Debug\net8.0\Beandando_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\obj\Debug\net8.0\Beandando_6.AssemblyInfoInputs.cache
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\obj\Debug\net8.0\Beandando_6.AssemblyInfo.cs
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\obj\Debug\net8.0\Beandando_6.csproj.CoreCompileInputs.cache
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\obj\Debug\net8.0\Beandando_6.sourcelink.json
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\obj\Debug\net8.0\Beandando_6.dll
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\obj\Debug\net8.0\refint\Beandando_6.dll
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\obj\Debug\net8.0\Beandando_6.pdb
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\obj\Debug\net8.0\Beandando_6.genruntimeconfig.cache
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\obj\Debug\net8.0\ref\Beandando_6.dll
+C:\Egyetem\2\OOP\Beandando_6\Beandando_6\bin\Debug\net8.0\input.txt

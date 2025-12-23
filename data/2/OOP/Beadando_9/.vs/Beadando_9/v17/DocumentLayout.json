@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Egyetem\\2\\OOP\\Beadando_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F5E086-37BD-4FE6-93CA-3DE838B463CD}|Beadando_9\\Beadando_9.csproj|c:\\egyetem\\2\\oop\\beadando_9\\beadando_9\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F5E086-37BD-4FE6-93CA-3DE838B463CD}|Beadando_9\\Beadando_9.csproj|solutionrelative:beadando_9\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F5E086-37BD-4FE6-93CA-3DE838B463CD}|Beadando_9\\Beadando_9.csproj|c:\\egyetem\\2\\oop\\beadando_9\\beadando_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F5E086-37BD-4FE6-93CA-3DE838B463CD}|Beadando_9\\Beadando_9.csproj|solutionrelative:beadando_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F5E086-37BD-4FE6-93CA-3DE838B463CD}|Beadando_9\\Beadando_9.csproj|c:\\egyetem\\2\\oop\\beadando_9\\beadando_9\\solarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F5E086-37BD-4FE6-93CA-3DE838B463CD}|Beadando_9\\Beadando_9.csproj|solutionrelative:beadando_9\\solarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F5E086-37BD-4FE6-93CA-3DE838B463CD}|Beadando_9\\Beadando_9.csproj|c:\\egyetem\\2\\oop\\beadando_9\\beadando_9\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F5E086-37BD-4FE6-93CA-3DE838B463CD}|Beadando_9\\Beadando_9.csproj|solutionrelative:beadando_9\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Beadando_9\\Beadando_9\\Planet.cs",
+              "RelativeDocumentMoniker": "Beadando_9\\Planet.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Beadando_9\\Beadando_9\\Planet.cs",
+              "RelativeToolTip": "Beadando_9\\Planet.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:38:45.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solarsystem.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Beadando_9\\Beadando_9\\Solarsystem.cs",
+              "RelativeDocumentMoniker": "Beadando_9\\Solarsystem.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Beadando_9\\Beadando_9\\Solarsystem.cs",
+              "RelativeToolTip": "Beadando_9\\Solarsystem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:59:41.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Starship.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Beadando_9\\Beadando_9\\Starship.cs",
+              "RelativeDocumentMoniker": "Beadando_9\\Starship.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Beadando_9\\Beadando_9\\Starship.cs",
+              "RelativeToolTip": "Beadando_9\\Starship.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:30:07.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Beadando_9\\Beadando_9\\Program.cs",
+              "RelativeDocumentMoniker": "Beadando_9\\Program.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Beadando_9\\Beadando_9\\Program.cs",
+              "RelativeToolTip": "Beadando_9\\Program.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAwwMAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:29:53.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

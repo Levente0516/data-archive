@@ -1,0 +1,14 @@
+C:\Egyetem\2\OOP\Gyak2\Gyak2\bin\Debug\net8.0\Gyak2.exe
+C:\Egyetem\2\OOP\Gyak2\Gyak2\bin\Debug\net8.0\Gyak2.deps.json
+C:\Egyetem\2\OOP\Gyak2\Gyak2\bin\Debug\net8.0\Gyak2.runtimeconfig.json
+C:\Egyetem\2\OOP\Gyak2\Gyak2\bin\Debug\net8.0\Gyak2.dll
+C:\Egyetem\2\OOP\Gyak2\Gyak2\bin\Debug\net8.0\Gyak2.pdb
+C:\Egyetem\2\OOP\Gyak2\Gyak2\obj\Debug\net8.0\Gyak2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\2\OOP\Gyak2\Gyak2\obj\Debug\net8.0\Gyak2.AssemblyInfoInputs.cache
+C:\Egyetem\2\OOP\Gyak2\Gyak2\obj\Debug\net8.0\Gyak2.AssemblyInfo.cs
+C:\Egyetem\2\OOP\Gyak2\Gyak2\obj\Debug\net8.0\Gyak2.csproj.CoreCompileInputs.cache
+C:\Egyetem\2\OOP\Gyak2\Gyak2\obj\Debug\net8.0\Gyak2.dll
+C:\Egyetem\2\OOP\Gyak2\Gyak2\obj\Debug\net8.0\refint\Gyak2.dll
+C:\Egyetem\2\OOP\Gyak2\Gyak2\obj\Debug\net8.0\Gyak2.pdb
+C:\Egyetem\2\OOP\Gyak2\Gyak2\obj\Debug\net8.0\Gyak2.genruntimeconfig.cache
+C:\Egyetem\2\OOP\Gyak2\Gyak2\obj\Debug\net8.0\ref\Gyak2.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Egyetem\\2\\OOP\\Gyak2_spiral\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C9D21-2196-49CF-8759-3FA91750F803}|Gyak2_spiral\\Gyak2_spiral.csproj|c:\\egyetem\\2\\oop\\gyak2_spiral\\gyak2_spiral\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C9D21-2196-49CF-8759-3FA91750F803}|Gyak2_spiral\\Gyak2_spiral.csproj|solutionrelative:gyak2_spiral\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C9D21-2196-49CF-8759-3FA91750F803}|Gyak2_spiral\\Gyak2_spiral.csproj|c:\\egyetem\\2\\oop\\gyak2_spiral\\gyak2_spiral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C9D21-2196-49CF-8759-3FA91750F803}|Gyak2_spiral\\Gyak2_spiral.csproj|solutionrelative:gyak2_spiral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notebook.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Gyak2_spiral\\Gyak2_spiral\\Notebook.cs",
+              "RelativeDocumentMoniker": "Gyak2_spiral\\Notebook.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Gyak2_spiral\\Gyak2_spiral\\Notebook.cs",
+              "RelativeToolTip": "Gyak2_spiral\\Notebook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:30:41.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Egyetem\\2\\OOP\\Gyak2_spiral\\Gyak2_spiral\\Program.cs",
+              "RelativeDocumentMoniker": "Gyak2_spiral\\Program.cs",
+              "ToolTip": "C:\\Egyetem\\2\\OOP\\Gyak2_spiral\\Gyak2_spiral\\Program.cs",
+              "RelativeToolTip": "Gyak2_spiral\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:30:22.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

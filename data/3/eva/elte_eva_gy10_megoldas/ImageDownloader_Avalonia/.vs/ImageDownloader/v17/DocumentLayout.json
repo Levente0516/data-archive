@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|c:\\egyetem\\3\\eva\\elte_eva_gy10_megoldas\\imagedownloader_avalonia\\imagedownloader.avalonia\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|solutionrelative:imagedownloader.avalonia\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|c:\\egyetem\\3\\eva\\elte_eva_gy10_megoldas\\imagedownloader_avalonia\\imagedownloader.avalonia\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|solutionrelative:imagedownloader.avalonia\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|c:\\egyetem\\3\\eva\\elte_eva_gy10_megoldas\\imagedownloader_avalonia\\imagedownloader.avalonia\\viewmodels\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|solutionrelative:imagedownloader.avalonia\\viewmodels\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|c:\\egyetem\\3\\eva\\elte_eva_gy10_megoldas\\imagedownloader_avalonia\\imagedownloader.avalonia\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|solutionrelative:imagedownloader.avalonia\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|c:\\egyetem\\3\\eva\\elte_eva_gy10_megoldas\\imagedownloader_avalonia\\imagedownloader.avalonia\\views\\imagewindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|solutionrelative:imagedownloader.avalonia\\views\\imagewindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|c:\\egyetem\\3\\eva\\elte_eva_gy10_megoldas\\imagedownloader_avalonia\\imagedownloader.avalonia\\views\\imageview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|solutionrelative:imagedownloader.avalonia\\views\\imageview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|c:\\egyetem\\3\\eva\\elte_eva_gy10_megoldas\\imagedownloader_avalonia\\imagedownloader.avalonia\\views\\imagewindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|solutionrelative:imagedownloader.avalonia\\views\\imagewindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|c:\\egyetem\\3\\eva\\elte_eva_gy10_megoldas\\imagedownloader_avalonia\\imagedownloader.avalonia\\views\\imageview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD8338F-741E-4CB7-8CEF-A762BA1D9CC0}|ImageDownloader.Avalonia\\ImageDownloader.Avalonia.csproj|solutionrelative:imagedownloader.avalonia\\views\\imageview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ImageDownloader.Avalonia\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ImageDownloader.Avalonia\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:55:59.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\App.axaml.cs",
+              "RelativeDocumentMoniker": "ImageDownloader.Avalonia\\App.axaml.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\App.axaml.cs",
+              "RelativeToolTip": "ImageDownloader.Avalonia\\App.axaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:10:24.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageWindow.axaml",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\Views\\ImageWindow.axaml",
+              "RelativeDocumentMoniker": "ImageDownloader.Avalonia\\Views\\ImageWindow.axaml",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\Views\\ImageWindow.axaml",
+              "RelativeToolTip": "ImageDownloader.Avalonia\\Views\\ImageWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-26T07:49:32.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\Views\\ImageWindow.axaml.cs",
+              "RelativeDocumentMoniker": "ImageDownloader.Avalonia\\Views\\ImageWindow.axaml.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\Views\\ImageWindow.axaml.cs",
+              "RelativeToolTip": "ImageDownloader.Avalonia\\Views\\ImageWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:49:32.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageView.axaml",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\Views\\ImageView.axaml",
+              "RelativeDocumentMoniker": "ImageDownloader.Avalonia\\Views\\ImageView.axaml",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\Views\\ImageView.axaml",
+              "RelativeToolTip": "ImageDownloader.Avalonia\\Views\\ImageView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-26T07:40:56.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageView.axaml.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\Views\\ImageView.axaml.cs",
+              "RelativeDocumentMoniker": "ImageDownloader.Avalonia\\Views\\ImageView.axaml.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\Views\\ImageView.axaml.cs",
+              "RelativeToolTip": "ImageDownloader.Avalonia\\Views\\ImageView.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vwcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:40:56.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageViewModel.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\ViewModels\\ImageViewModel.cs",
+              "RelativeDocumentMoniker": "ImageDownloader.Avalonia\\ViewModels\\ImageViewModel.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\ViewModels\\ImageViewModel.cs",
+              "RelativeToolTip": "ImageDownloader.Avalonia\\ViewModels\\ImageViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:32:18.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainView.axaml",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\Views\\MainView.axaml",
+              "RelativeDocumentMoniker": "ImageDownloader.Avalonia\\Views\\MainView.axaml",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\elte_eva_gy10_megoldas\\ImageDownloader_Avalonia\\ImageDownloader.Avalonia\\Views\\MainView.axaml",
+              "RelativeToolTip": "ImageDownloader.Avalonia\\Views\\MainView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-26T07:28:32.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

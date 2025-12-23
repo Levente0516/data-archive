@@ -1,0 +1,14 @@
+C:\Prog GY\Gyak03\Gyak03\obj\Debug\net8.0\Gyak03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog GY\Gyak03\Gyak03\obj\Debug\net8.0\Gyak03.AssemblyInfoInputs.cache
+C:\Prog GY\Gyak03\Gyak03\obj\Debug\net8.0\Gyak03.AssemblyInfo.cs
+C:\Prog GY\Gyak03\Gyak03\obj\Debug\net8.0\Gyak03.csproj.CoreCompileInputs.cache
+C:\Prog GY\Gyak03\Gyak03\bin\Debug\net8.0\Gyak03.exe
+C:\Prog GY\Gyak03\Gyak03\bin\Debug\net8.0\Gyak03.deps.json
+C:\Prog GY\Gyak03\Gyak03\bin\Debug\net8.0\Gyak03.runtimeconfig.json
+C:\Prog GY\Gyak03\Gyak03\bin\Debug\net8.0\Gyak03.dll
+C:\Prog GY\Gyak03\Gyak03\bin\Debug\net8.0\Gyak03.pdb
+C:\Prog GY\Gyak03\Gyak03\obj\Debug\net8.0\Gyak03.dll
+C:\Prog GY\Gyak03\Gyak03\obj\Debug\net8.0\refint\Gyak03.dll
+C:\Prog GY\Gyak03\Gyak03\obj\Debug\net8.0\Gyak03.pdb
+C:\Prog GY\Gyak03\Gyak03\obj\Debug\net8.0\Gyak03.genruntimeconfig.cache
+C:\Prog GY\Gyak03\Gyak03\obj\Debug\net8.0\ref\Gyak03.dll

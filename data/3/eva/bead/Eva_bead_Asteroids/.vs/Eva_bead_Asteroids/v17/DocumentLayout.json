@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|c:\\egyetem\\3\\eva\\bead\\eva_bead_asteroids\\eva_bead_asteroids_\\model\\shipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|solutionrelative:eva_bead_asteroids_\\model\\shipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|c:\\egyetem\\3\\eva\\bead\\eva_bead_asteroids\\eva_bead_asteroids_\\model\\iship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|solutionrelative:eva_bead_asteroids_\\model\\iship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|c:\\egyetem\\3\\eva\\bead\\eva_bead_asteroids\\eva_bead_asteroids_\\model\\asteroidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|solutionrelative:eva_bead_asteroids_\\model\\asteroidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|c:\\egyetem\\3\\eva\\bead\\eva_bead_asteroids\\eva_bead_asteroids_\\model\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|solutionrelative:eva_bead_asteroids_\\model\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26597147-B010-46A7-A026-4889D6A433C2}|Eva_bead_Asteroids\\Eva_bead_Asteroids_View.csproj|C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\eva_bead_asteroids\\ablak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26597147-B010-46A7-A026-4889D6A433C2}|Eva_bead_Asteroids\\Eva_bead_Asteroids_View.csproj|solutionrelative:eva_bead_asteroids\\ablak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26597147-B010-46A7-A026-4889D6A433C2}|Eva_bead_Asteroids\\Eva_bead_Asteroids_View.csproj|c:\\egyetem\\3\\eva\\bead\\eva_bead_asteroids\\eva_bead_asteroids\\ablak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26597147-B010-46A7-A026-4889D6A433C2}|Eva_bead_Asteroids\\Eva_bead_Asteroids_View.csproj|solutionrelative:eva_bead_asteroids\\ablak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26597147-B010-46A7-A026-4889D6A433C2}|Eva_bead_Asteroids\\Eva_bead_Asteroids_View.csproj|c:\\egyetem\\3\\eva\\bead\\eva_bead_asteroids\\eva_bead_asteroids\\ablak.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26597147-B010-46A7-A026-4889D6A433C2}|Eva_bead_Asteroids\\Eva_bead_Asteroids_View.csproj|solutionrelative:eva_bead_asteroids\\ablak.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FA8360-AB22-4092-985B-0A6BEB06CBCA}|AsteroidGameTest\\AsteroidGameTest.csproj|c:\\egyetem\\3\\eva\\bead\\eva_bead_asteroids\\asteroidgametest\\asteroidtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FA8360-AB22-4092-985B-0A6BEB06CBCA}|AsteroidGameTest\\AsteroidGameTest.csproj|solutionrelative:asteroidgametest\\asteroidtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|c:\\egyetem\\3\\eva\\bead\\eva_bead_asteroids\\eva_bead_asteroids_\\model\\iasteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|solutionrelative:eva_bead_asteroids_\\model\\iasteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|c:\\egyetem\\3\\eva\\bead\\eva_bead_asteroids\\eva_bead_asteroids_\\persistence\\dataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|solutionrelative:eva_bead_asteroids_\\persistence\\dataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|c:\\egyetem\\3\\eva\\bead\\eva_bead_asteroids\\eva_bead_asteroids_\\persistence\\asteroidtabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|solutionrelative:eva_bead_asteroids_\\persistence\\asteroidtabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|c:\\egyetem\\3\\eva\\bead\\eva_bead_asteroids\\eva_bead_asteroids_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7B06D0-237B-42EF-9109-E6505C6F630C}|Eva_bead_Asteroids_\\Eva_bead_Asteroids.csproj|solutionrelative:eva_bead_asteroids_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ablak.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids\\Ablak.cs",
+              "RelativeDocumentMoniker": "Eva_bead_Asteroids\\Ablak.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids\\Ablak.cs",
+              "RelativeToolTip": "Eva_bead_Asteroids\\Ablak.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBYBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:14:00.488Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Model\\GameLogic.cs",
+              "RelativeDocumentMoniker": "Eva_bead_Asteroids_\\Model\\GameLogic.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Model\\GameLogic.cs",
+              "RelativeToolTip": "Eva_bead_Asteroids_\\Model\\GameLogic.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:07:56.228Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AsteroidTest.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\AsteroidGameTest\\AsteroidTest.cs",
+              "RelativeDocumentMoniker": "AsteroidGameTest\\AsteroidTest.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\AsteroidGameTest\\AsteroidTest.cs",
+              "RelativeToolTip": "AsteroidGameTest\\AsteroidTest.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:24:05.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ablak.Designer.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids\\Ablak.Designer.cs",
+              "RelativeDocumentMoniker": "Eva_bead_Asteroids\\Ablak.Designer.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids\\Ablak.Designer.cs",
+              "RelativeToolTip": "Eva_bead_Asteroids\\Ablak.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T13:13:55.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ablak.cs [Design]",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids\\Ablak.cs",
+              "RelativeDocumentMoniker": "Eva_bead_Asteroids\\Ablak.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids\\Ablak.cs [Design]",
+              "RelativeToolTip": "Eva_bead_Asteroids\\Ablak.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T09:05:19.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IShip.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Model\\IShip.cs",
+              "RelativeDocumentMoniker": "Eva_bead_Asteroids_\\Model\\IShip.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Model\\IShip.cs",
+              "RelativeToolTip": "Eva_bead_Asteroids_\\Model\\IShip.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:13:10.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAsteroid.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Model\\IAsteroid.cs",
+              "RelativeDocumentMoniker": "Eva_bead_Asteroids_\\Model\\IAsteroid.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Model\\IAsteroid.cs",
+              "RelativeToolTip": "Eva_bead_Asteroids_\\Model\\IAsteroid.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:13:04.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShipModel.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Model\\ShipModel.cs",
+              "RelativeDocumentMoniker": "Eva_bead_Asteroids_\\Model\\ShipModel.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Model\\ShipModel.cs",
+              "RelativeToolTip": "Eva_bead_Asteroids_\\Model\\ShipModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:35:10.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsteroidModel.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Model\\AsteroidModel.cs",
+              "RelativeDocumentMoniker": "Eva_bead_Asteroids_\\Model\\AsteroidModel.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Model\\AsteroidModel.cs",
+              "RelativeToolTip": "Eva_bead_Asteroids_\\Model\\AsteroidModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:48:37.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Program.cs",
+              "RelativeDocumentMoniker": "Eva_bead_Asteroids_\\Program.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Program.cs",
+              "RelativeToolTip": "Eva_bead_Asteroids_\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:06:03.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AsteroidTabel.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Persistence\\AsteroidTabel.cs",
+              "RelativeDocumentMoniker": "Eva_bead_Asteroids_\\Persistence\\AsteroidTabel.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Persistence\\AsteroidTabel.cs",
+              "RelativeToolTip": "Eva_bead_Asteroids_\\Persistence\\AsteroidTabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:39:16.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataException.cs",
+              "DocumentMoniker": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Persistence\\DataException.cs",
+              "RelativeDocumentMoniker": "Eva_bead_Asteroids_\\Persistence\\DataException.cs",
+              "ToolTip": "C:\\Egyetem\\3\\eva\\bead\\Eva_bead_Asteroids\\Eva_bead_Asteroids_\\Persistence\\DataException.cs",
+              "RelativeToolTip": "Eva_bead_Asteroids_\\Persistence\\DataException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:36:04.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

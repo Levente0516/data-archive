@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Eva_bead_Asteroids_View/1.0.0": {
+        "dependencies": {
+          "Eva_bead_Asteroids": "1.0.0"
+        },
+        "runtime": {
+          "Eva_bead_Asteroids_View.dll": {}
+        }
+      },
+      "Eva_bead_Asteroids/1.0.0": {
+        "runtime": {
+          "Eva_bead_Asteroids.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eva_bead_Asteroids_View/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Eva_bead_Asteroids/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

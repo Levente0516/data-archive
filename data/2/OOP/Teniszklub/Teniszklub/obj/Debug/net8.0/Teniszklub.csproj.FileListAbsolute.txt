@@ -1,0 +1,17 @@
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\bin\Debug\net8.0\Palyak.txt
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\bin\Debug\net8.0\Tagok.txt
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\bin\Debug\net8.0\Teniszklub.exe
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\bin\Debug\net8.0\Teniszklub.deps.json
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\bin\Debug\net8.0\Teniszklub.runtimeconfig.json
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\bin\Debug\net8.0\Teniszklub.dll
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\bin\Debug\net8.0\Teniszklub.pdb
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\obj\Debug\net8.0\Teniszklub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\obj\Debug\net8.0\Teniszklub.AssemblyInfoInputs.cache
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\obj\Debug\net8.0\Teniszklub.AssemblyInfo.cs
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\obj\Debug\net8.0\Teniszklub.csproj.CoreCompileInputs.cache
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\obj\Debug\net8.0\Teniszklub.sourcelink.json
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\obj\Debug\net8.0\Teniszklub.dll
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\obj\Debug\net8.0\refint\Teniszklub.dll
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\obj\Debug\net8.0\Teniszklub.pdb
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\obj\Debug\net8.0\Teniszklub.genruntimeconfig.cache
+C:\Egyetem\2\OOP\Teniszklub\Teniszklub\obj\Debug\net8.0\ref\Teniszklub.dll

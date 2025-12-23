@@ -1,0 +1,14 @@
+C:\Prog GY\GYak02\GYak02\bin\Debug\net8.0\GYak02.exe
+C:\Prog GY\GYak02\GYak02\bin\Debug\net8.0\GYak02.deps.json
+C:\Prog GY\GYak02\GYak02\bin\Debug\net8.0\GYak02.runtimeconfig.json
+C:\Prog GY\GYak02\GYak02\bin\Debug\net8.0\GYak02.dll
+C:\Prog GY\GYak02\GYak02\bin\Debug\net8.0\GYak02.pdb
+C:\Prog GY\GYak02\GYak02\obj\Debug\net8.0\GYak02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog GY\GYak02\GYak02\obj\Debug\net8.0\GYak02.AssemblyInfoInputs.cache
+C:\Prog GY\GYak02\GYak02\obj\Debug\net8.0\GYak02.AssemblyInfo.cs
+C:\Prog GY\GYak02\GYak02\obj\Debug\net8.0\GYak02.csproj.CoreCompileInputs.cache
+C:\Prog GY\GYak02\GYak02\obj\Debug\net8.0\GYak02.dll
+C:\Prog GY\GYak02\GYak02\obj\Debug\net8.0\refint\GYak02.dll
+C:\Prog GY\GYak02\GYak02\obj\Debug\net8.0\GYak02.pdb
+C:\Prog GY\GYak02\GYak02\obj\Debug\net8.0\GYak02.genruntimeconfig.cache
+C:\Prog GY\GYak02\GYak02\obj\Debug\net8.0\ref\GYak02.dll

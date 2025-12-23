@@ -1,0 +1,8 @@
+﻿Jószi		nyugdíjas 
+Anna		diak
+Petra		igazolt_sportolo
+Attila		nyugdíjas 
+Bence		igazolt_sportolo
+Zsófi		diak
+Benedek		nyugdíjas 
+Antal		igazolt_sportolo
